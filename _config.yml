@@ -16,8 +16,6 @@
 title: Mingism / 明主意
 description: >- # this means to ignore newlines until "baseurl:"
   Thanks for taking a peek. Now move along.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  YemingLakeForest
 
 # Build settings
