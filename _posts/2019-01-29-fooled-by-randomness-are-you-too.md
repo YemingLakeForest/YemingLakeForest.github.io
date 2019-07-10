@@ -4,7 +4,11 @@ title:  "‘Fooled by Randomness’ – Are You Too?"
 date:   2019-01-29 16:11:16 +0100
 categories: Books
 ---
-I have recently finished reading (listening) to the (audio)book title Fooled by Randomness by Nassim Nicholas Taleb. Taleb, a probabilist, former trader turned life coach/mentor seemed to have achieved his cult status among statistic hobbyist as well as professionals. In fact, it was a trader colleague of mine introduced me to the book. “He might be a dick, but it was an interesting read”, a recommendation I was given and proven to be credible. The book was rather informative and entertaining enough to propel me through. Through the abundance of random rants and named attacks (the ‘dick’ bits), Taleb somehow found a way to quite convincingly convey his points.
+I have recently finished reading (listening) to the (audio)book title Fooled by Randomness by Nassim Nicholas Taleb. 
+
+<!--MORE-->
+
+Taleb, a probabilist, former trader turned life coach/mentor seemed to have achieved his cult status among statistic hobbyist as well as professionals. In fact, it was a trader colleague of mine introduced me to the book. “He might be a dick, but it was an interesting read”, a recommendation I was given and proven to be credible. The book was rather informative and entertaining enough to propel me through. Through the abundance of random rants and named attacks (the ‘dick’ bits), Taleb somehow found a way to quite convincingly convey his points.
 
 Now the points. Those who only have skimmed through the abstract or critics reviews might have concluded that Taleb thinks successful people are lucky, which point he clearly denied in the book. Rather than thinking all successes are random, his presumption is to attribute success to randomness, unless proven otherwise. I can see how this narrative can purposely be framed into other forms and many people felt triggered by it.
 

@@ -1,0 +1,29 @@
+---
+layout: default
+comments:
+- author:
+type: full
+
+---
+
+<div class="home">
+
+    <ul class="posts">
+        {% for post in site.posts %}
+        {% unless post.zhUrl %}
+        <li>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <div class="post-link">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                {% if post.enUrl %}
+                <a href="{{ post.enUrl }}">(En)</a>
+                {% endif %}
+            </div>
+            {{ post.excerpt }}
+        </li>
+        <br>
+        {% endunless %}
+        {% endfor %}
+    </ul>
+
+</div>

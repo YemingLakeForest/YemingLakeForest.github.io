@@ -6,6 +6,8 @@ categories: Rants and Scribbles
 ---
 I booked the AWS Certified Developer – Associate exam about half a year ago to help my firm spend some of its training budget. I (kind of) forgot about it until it was too late to. Too late being 2 days prior to the exam.
 
+<!--MORE-->
+
 This was the time when my go-to exam revision tactics are called for – past papers bombard.
 
 Most training courses suggest at least 2 weeks studying time which I don’t have, not even a fraction.
