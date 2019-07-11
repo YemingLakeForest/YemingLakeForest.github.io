@@ -2,7 +2,7 @@
 layout: post
 title: Bamboo Can’t Git
 date: '2018-05-11 16:11:16 +0100'
-categories: 'Rants and Scribbles, Software'
+categories: Rants and Scribbles, Software
 comments:
   - author:
       type: full
