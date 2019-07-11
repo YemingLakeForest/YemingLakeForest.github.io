@@ -12,10 +12,8 @@ Taleb, a probabilist, former trader turned life coach/mentor seemed to have achi
 
 Now the points. Those who only have skimmed through the abstract or critics reviews might have concluded that Taleb thinks successful people are lucky, which point he clearly denied in the book. Rather than thinking all successes are random, his presumption is to attribute success to randomness, unless proven otherwise. I can see how this narrative can purposely be framed into other forms and many people felt triggered by it.
 
-There are three key takeaways I have from this book. Let’s call them ‘raisins’ (A term coined by Amos Tversky, meaning interesting idea or findings).
-
 ### The Fallacy of Conventional Thinking
-The first raisin I got from this book is how easily humans are prone to trivial logic errors. Or to rephrase, what conventional thinking would be deemed true might actually be the direct opposite of reality. Consider below three statements and see if you agree with any of those.
+The key takeaway I got from this book is that how humans are prone to trivial logic errors. Or to rephrase, what conventional thinking would be deemed true might actually be the direct opposite of reality. Consider below three statements and see if you agree with any of those.
 
 A particular surgery procedure has a success rate of 99%. Your doctor comes to you and goes, ‘You are going to die I am afraid, there had been 99 success cases right before you’.
 
