@@ -6,6 +6,8 @@ categories: Books
 ---
 I have recently finished reading (listening) to the (audio)book title Fooled by Randomness by Nassim Nicholas Taleb. 
 
+![Fooled by Randomness](/assets/fooled_by_randomness_cover.jpg)
+
 <!--MORE-->
 
 Taleb, a probabilist, former trader turned life coach/mentor seemed to have achieved his cult status among statistic hobbyist as well as professionals. In fact, it was a trader colleague of mine introduced me to the book. “He might be a dick, but it was an interesting read”, a recommendation I was given and proven to be credible. The book was rather informative and entertaining enough to propel me through. Through the abundance of random rants and named attacks (the ‘dick’ bits), Taleb somehow found a way to quite convincingly convey his points.

@@ -16,7 +16,9 @@ So I got hold on to this Udemy course which essentially was 4 mock exam papers. 
 
 No good.
 
-Ill prepared, I went to sit in the exam anyway. And somehow somewhat ended up passing.
+Ill prepared, I went to sit in the exam anyway. And somehow somewhat ended up passing. Now that I am AWS Certified and get to where this fancy badge.
+
+![AWS Badge](/assets/AWS_Certified_Logo_294x230_Color.png)
 
 Having calmed from the initial ecstasy, I move down to the self-questioning phase. I chanced the whole thing and was hit by fluke.
 
