@@ -5,7 +5,9 @@ date:   2019-07-15 16:11:16 +0100
 categories: Politics
 ---
 The UK had chosen a new Prime Minister, or rather, a party leader that conveniently became.
+
 <!--MORE-->
+
 'As a' is a magical phrase you find between many different random technology domain entities. You put your 'as a' in between
 your 'software service' or you 'platform service' to make them SaaS and PaaS, and they instantly sounded smarter.
 
