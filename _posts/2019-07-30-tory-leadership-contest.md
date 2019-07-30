@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tory Leadership Contest as a Trade"
-date:   2019-07-15 16:11:16 +0100
+date:   2019-07-30 16:11:16 +0100
 categories: Politics
 ---
 The UK had chosen a new Prime Minister, or rather, a party leader that conveniently became.
