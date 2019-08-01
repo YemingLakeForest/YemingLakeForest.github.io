@@ -12,3 +12,6 @@ excerpt_separator: "<!--MORE-->"
 # Use Github Flavored Markdown
 kramdown:
   input: GFM
+
+future:
+  true
