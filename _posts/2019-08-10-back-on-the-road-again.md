@@ -388,17 +388,72 @@ __路在何方__
 心里多少有些不甘。希望在将来，**我的技能可以独立地实现出来，毋需依附于所效力企业。** 怎么实现这一条，我还没什么头绪。
 如果有在这方面的经验又愿意分享的同志，欢迎留言讨论。
 
-----
-
 终于看完了，辛苦了。[吃颗土豆吧。](https://qr.ae/TWvmIi)
 
 ![Potato](/assets/potato.png)
 
 （完）
 
+----
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
+
+以下为译文 / English Version
+
+Till the third quarter of 2019, I have been in this industry for exactly 7 years. 
+In the face of the magic number of '7', as well as the second career transition of my life, 
+I will briefly summarise these years of my career. 
+This blog post is mainly written for myself, especially for the self 7 years later, or even 
+```while (isAlive) {age += 7;}``` years later. 
+If have wandered in and have a thought for this blog post, please leave a comment.
+
+I changed the style of this blog posts a little. In contrast to other posts in this site, 
+This article was written in Chinese. 
+The reason for choosing Chinese is that when I talk about 'things', I like to express myself in my work language (English). 
+But when it comes to 'people', and this 'person' is himself, it is best to express it in a mother tongue. 
+For the consistency of the look and feel of this site, I will attach an English translation (what you are looking at). 
+Since I am ~~lazy~~ efficient, the English version of this article is the product of Google Translate with some refinements.
+
+This is a rather long text, take your time and enjoy.
+
+&nbsp;
+
+## 0
+----
+Since graduating from the Imperial Master's program in 2011, I was just confused about future as many other grads. 
+That year, the Conservative Party just came to power and tightened its immigration policy. 
+The then Home Secretary, Theresa May, cancelled the Post Study Work visa established by the previous Labour government. 
+This means that I don't have the luxury of two years to look for a job in London.  
+I haven't got long to be confused. I frenziedly applied for the graduates jobs of London's major investment banks. 
+After a few misses, I gradually mastered the routine of the investment bank interviews, 
+and subsequently received the offers of three banks.
+
+After weighing the pros and cons of the gains and losses, I chose one of the three banks and went to work happily. 
+The bank was Citi, in where I spent 5 good years of my career.
+
+&nbsp;
+
+## 1
+----
+In the fall of 2012, I joined the Citi's ICG Global Markets Technology as a graduate. 
+Simply put, this is the technology arm Citi's investment banking department. In Chinese context, 
+this type of role is often referred as 'financial code farmer'.
+
+I do not agree nor like the description of 'code farmer'. 
+The word 'farming' has the subtle meaning of labor-intensive work (no offence to agricultural professionals). 
+The essence of software engineers is precisely to eliminate labor-intensive work. 
+As a software engineer, if you find yourself 'farming' a lot, you probably are in the wrong trade.
+
+Joined as a grad in 2012, I have been in Citi for more than 5 years. 
+My experience of all these years would warrant 10 blog post or more.
+I will sum up my joys and sorrows in Citi in the aspect of **what I've done, what I've achieved,** and **why I left**.
+
+#### 1·1
+__What I've Done__
 
 
 
