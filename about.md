@@ -13,4 +13,4 @@ comments:
 
 ---
 
-Nothing to see here.
+I code, game, and babysit. Mostly babysit.

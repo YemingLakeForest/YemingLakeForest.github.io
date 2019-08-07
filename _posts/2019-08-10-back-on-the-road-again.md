@@ -487,7 +487,7 @@ Citi loved scorecarding systems based on their software maturity, and my system 
 on the top lists within the department. This kind of made every one look good.
 My direct manager back then even used it as one of his 'achievements' to justify his promotion. I laughed my head off.
 
-As for the business, my legacy is to extend a software system that serves several internal employees to a software 
+As for the business, my legacy was to extend a software system that serves several internal employees to a software 
 service that can meet the needs of numerous internal and external customers. The system was first installed on the 
 desktops of several risk managers, tracking and monitoring our clients' maintenance margin requirements. 
 By the time I left, the system has been reversed to a service that satisfies real-time ad hoc margin calculations, 
@@ -561,11 +561,34 @@ Secondly, my technical skills and business knowledge have been improving much sl
 The tasks handed over to me are becoming more and more homogeneous, and I am became increasingly insecure.
 My skills will become more and more irrelevant to market. **It's time to diversify my experiences and skills.**
 
+Given my position and the connections I accumulated, is not impossible for me to rise up the rank and make Director
+one day. However, to do this I will be shorting volatility. What do I mean, you ask.
+If I decide to stay in Citi, I am betting things are going to be static, the company will not lay off staffs, 
+the business department will not be cut, the my network in the firm will still be there, and the market 
+will not shrink. Once these external conditions fade away, my position would be endangered.
+I will become fragile. And I want to be anti-fragile, I have to strengthen the width and depth of my skills, 
+and long volatility. 
+
+The slow down of my improvement is largely due to some institutional and philosophical problems of the company. 
+See how I raise up the whole topic here? Let's talk about these institutional issues I faced.
+
+The third and the most important reason why I left Citi is that over the years, I realised that the firm, as [put by
+Chen Hao, tent to solve problems through management rather than technology](https://coolshell.cn/articles/17737.html). 
+This is the very point I disagree with the firm and despite. It is also the fundamental cause of my grievances
+in my final days in the company.
+
+As a junior team lead in the firm I was buried with all sorts of ruthless bureaucratic formalism work produced by 
+the company. A variety of weird spreadsheets to be filled. At least two days of paperwork before each deployment, 
+with eight approvals to chase. There's always someone from some part of the company you never heard up jumping up to 
+chase you for paperwork. Every Wednesday, you receive a scorecard about paperwork completion cc'd to all big cheeses,
+and risk of being in their 'naughty list'. I lost sleep on dump things as such.
+In retrospect, it was a quite a feat that I could handle so these bureaucracy while ensuring the projects' delivery.
+
+Some would say that this is a common problem for big firms. If you can't adapt to it, change it,
+which point I agree with in principle. Well, I got three stories to tell, please hear me out.
 
 
-
-
-
+ 
 
 
 
