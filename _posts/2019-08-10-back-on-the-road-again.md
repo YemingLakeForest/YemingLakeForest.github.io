@@ -516,7 +516,7 @@ I made VP in the fourth year since graduation. This was partially due to the tre
 More importantly, I had a good nurturing boss, to whom I felt grateful, even till this day.
 
 When I was the team lead in Citi, my subordinates were scattered around the world. Why is this so? 
-Bulge bracket banks like Citigroup had this practice of setting up "centres of excellence" (COE). So what the hell are these?
+Bulge bracket banks like Citi had this practice of setting up "centres of excellence" (COE). So what the hell are these?
 The COE is the politically correct term for a cheap locations. These COEs are offices established by the firm in 
 third world countries to cut costs.
 
@@ -524,14 +524,42 @@ I had a team member in the COE of Belfast, who later transferred a different tea
 Before he left, he told me that he would well remember what I've taught him all these time. My ego was much boosted.
 
 To sum up, the most import thing I achieved in Citi is growth. To add a bit more, I have achieved the 'title'.
-Some argues that titles are all non-substantial. Yet very few would be willing to give their titles away.
-This title itself does not have any practical significance, and no one will really call you Mr VP. 
-But your status in the industry (gravitas) backed by the title is real. Each major bank has a strict salary bands 
+[Some argues that titles are all non-substantial](https://coolshell.cn/articles/10688.html)). 
+Yet very few would actually be willing to give their titles away.
+Titles themselves do not carry practical significance, no one is going to address you as Mr VP. 
+But your status in the industry (gravitas) backed by the title is real. Each major bank has a strict salary band 
 for each title. Having achieve certain title it is also beneficial in job hunting. 
 The new company will always have to match you the corresponding title you have obtained.
 
 So why move? You may ask. Sit tight, here comes the roast.
 
+#### 1·2
+__What I Left__
+
+Finally. I waited too long to write this.
+
+Why are you doing this? People around me, family and wife, were confused about my decision to quit. 
+In fact, during the final years in Citi, my mental state was progressively worsen. I felt pain, suffering and grief 
+(ok I exaggerated a little). One thing was certain. In the last year of Citi, I had made up a firm mind to leave.
+
+3 main factors.
+
+First, **that was the optimal time to move**. As stated I made VP that year. In banks, the title of VP (Vice President) 
+is generally an achievable goal. To get promoted to Director, though, needs years of glooming.
+I don't want to spend too much time in Citi. Furthermore, the UK's immigration policy allows foreigners who have 
+worked continuously for five years to apply for permanent residence, then employment won't be restricted. 
+Now that I have done my sentences I was naturally encouraged to plan for a move.
+
+I have been working at Citi for five consecutive years. Albert having good raises each year
+my salary level is far below the market because of the low base of graduates. 
+There was this time that I was dumb enough to assess my salary level in Glassdoor. So I entered my salary. Oh, 
+my salary just became the lower bound of the Vice President’s salary statistics for Citi.
+
+Tough!
+
+Secondly, my technical skills and business knowledge have been improving much slower during the last two years in Citi. 
+The tasks handed over to me are becoming more and more homogeneous, and I am became increasingly insecure.
+My skills will become more and more irrelevant to market. **It's time to diversify my experiences and skills.**
 
 
 
