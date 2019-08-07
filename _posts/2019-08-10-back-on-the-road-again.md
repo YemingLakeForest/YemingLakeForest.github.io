@@ -462,7 +462,7 @@ The difficulty lies in how to extract some of the legacies of sustainable and sy
 array of projects that have been done.
 
 Most of the years in Citi was spent in Futures Clearing and Collateral Management (Fucc'm, that's right, 
-this is how the sign above my head reads). Electronic trading and risk control business.
+this is how the sign above my head reads), serving the Futures eTrading and Risk business.
 
 When I first joined the team, jeez, the entire tech stack was a big wild west.
 Continuous integration was next to non-exist, one click deployment was not there, 
@@ -486,6 +486,19 @@ DNA into my systems**, and spread it to other sisters in the wider organisation 
 Citi loved scorecarding systems based on their software maturity, and my system always appeared 
 on the top lists within the department. This kind of made every one look good.
 My direct manager back then even used it as one of his 'achievements' to justify his promotion. I laughed my head off.
+
+As for the business, my legacy is to extend a software system that serves several internal employees to a software 
+service that can meet the needs of numerous internal and external customers. The system was first installed on the 
+desktops of several risk managers, tracking and monitoring our clients' maintenance margin requirements. 
+By the time I left, the system has been reversed to a service that satisfies real-time ad hoc margin calculations, 
+and the service is exposed on the citivelocity.com platform for use by external customers. Because of the delivery of 
+this high profile project, the company won the business of a government backed investment institution in Singapore. 
+This was quite an achievement back then and put a smile in many's faces. Although in the investment banking environment, 
+the technical department only gets a small slice of the cake, but as a relatively junior guy delivering all these, 
+I was quite well rewarded. And we will now smoothly transition to the next chapter, what I've got.
+
+#### 1·1
+__What I've Got__
 
 
 
