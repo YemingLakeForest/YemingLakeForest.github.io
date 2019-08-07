@@ -433,7 +433,7 @@ After a few misses, I gradually mastered the routine of the investment bank inte
 and subsequently received the offers of three banks.
 
 After weighing the pros and cons of the gains and losses, I chose one of the three banks and went to work happily. 
-The bank was Citi, in where I spent 5 good years of my career.
+The bank was Citi, in where I spent 5 good years of my career in.
 
 &nbsp;
 
@@ -452,15 +452,40 @@ Joined as a grad in 2012, I have been in Citi for more than 5 years.
 My experience of all these years would warrant 10 blog post or more.
 I will sum up my joys and sorrows in Citi in the aspect of **what I've done, what I've achieved,** and **why I left**.
 
-#### 1·1
+#### 1·0
 __What I've Done__
 
+This is actually quite difficult to sum up.
 
+Difficult, of course, is not because you do not know what you have done, otherwise you would just copy and paste the CV.
+The difficulty lies in how to extract some of the legacies of sustainable and systematic contributions in the dizzying 
+array of projects that have been done.
 
+Most of the years in Citi was spent in Futures Clearing and Collateral Management (Fucc'm, that's right, 
+this is how the sign above my head reads). Electronic trading and risk control business.
 
+When I first joined the team, jeez, the entire tech stack was a big wild west.
+Continuous integration was next to non-exist, one click deployment was not there, 
+the code repository was still SVN. I remember the first time I watched my colleagues do the deployment. 
+I was watching him, clicked open Windows Remote Desktop, logged into the production environment, 
+and manually pulled the local maven-built zip package (that's right) to the desktop of the production environment.
+He then manually unzips the zip and pulls the sub-files one by one into the deployment directory. 
+I was shocked out of the roof.
 
+It certainly can't go on like this. During the my years in the team, I continued to improve the SDLC maturity of the 
+software system under the premise of ensuring the progress of projects. I moved the code repository from SVN to the 
+internally hosted git server and then to the Bitbucket shared by the entire bank. Initially our software was deployed 
+directly on bare metal servers, and I moved them to virtual machines. And then they were all migrated to Citi's internal
+cloud. I have successively established systems such as continuous integration, automatic deployment, automatic testing, 
+static code quality analysis, and code quality gates. Also, I standardized the technology structure and build methods for 
+projects across different business areas. This allows future generations of engineers to join to develop on our systems 
+with ease, while ensuring that the quality of the software produced within this framework is relatively high.
 
-
+In a nutshell, the most important legacy I left was that I injected the **sustainable, horizontally scalable software development
+DNA into my systems**, and spread it to other sisters in the wider organisation to some extent. 
+Citi loved scorecarding systems based on their software maturity, and my system always appeared 
+on the top lists within the department. This kind of made every one look good.
+My direct manager back then even used it as one of his 'achievements' to justify his promotion. I laughed my head off.
 
 
 
