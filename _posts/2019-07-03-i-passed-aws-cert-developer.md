@@ -16,7 +16,7 @@ So I got hold on to this Udemy course which essentially was 4 mock exam papers. 
 
 No good.
 
-Ill prepared, I went to sit in the exam anyway. And somehow somewhat ended up passing. Now that I am AWS Certified and get to where this fancy badge.
+Ill prepared, I went to sit in the exam anyway. And somehow somewhat ended up passing. Now that I am AWS Certified and get to wear this fancy badge.
 
 ![AWS Badge](/assets/AWS_Certified_Logo_294x230_Color.png)
 
@@ -24,8 +24,8 @@ Having calmed from the initial ecstasy, I move down to the self-questioning phas
 
 Given my performance on past papers, me passing was almost a 2 sigma event.
 
-Now I was scared. The danger was me passing by fluke would in turn re-enforce this chance taking behaviour.
+Now I was scared. The danger was me passing by fluke would in turn re-enforce this risk taking behaviour.
 
-Reminds me of a joke. A head of a trading firm placed trades against his head trader’s advice. The head trader told me he hoped these trades didn’t end up profitable, otherwise his boss would think that he was really on to something.
+Reminds me of a joke. The head of a trading firm placed trades against his head trader’s advice. The head trader told me he hoped these trades didn’t end up profitable, otherwise his boss would think that he was really on to something.
 
 Now that’s a fool of randomness.
