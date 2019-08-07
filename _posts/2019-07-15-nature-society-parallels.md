@@ -3,6 +3,7 @@ layout: post
 title:  "Parallels Drawn between Nature and Society"
 date:   2019-07-15 16:11:16 +0100
 categories: Random Thoughts
+comments: true
 ---
 
 A random thought went through my mind lately. 

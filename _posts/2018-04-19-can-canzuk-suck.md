@@ -3,6 +3,7 @@ layout: post
 title:  "Can CANZUK Suck?"
 date:   2018-04-19 16:11:16 +0100
 categories: Politics
+comments: true
 ---
 [Commonwealth Heads of Government Meeting](https://www.chogm2018.org.uk/) is going on this week. 
 <!--MORE-->

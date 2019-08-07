@@ -3,6 +3,7 @@ layout: post
 title:  "‘Fooled by Randomness’ – Are You Too?"
 date:   2019-01-29 16:11:16 +0100
 categories: Books
+comments: true
 ---
 I have recently finished reading (listening) to the (audio)book title Fooled by Randomness by Nassim Nicholas Taleb. 
 

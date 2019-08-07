@@ -3,6 +3,7 @@ layout: post
 title:  "Forget TDD – Design Driven Development!"
 date:   2018-04-27 16:11:16 +0100
 categories: Software
+comments: true
 ---
 
 When it comes to software testing, [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) is the new politically correct. TDD, alongside with its variants, like BDD (Behaviour Driven Development) are particularly en vogue these days with dozens of projects built around these concepts. You can’t even go into any job interviews without claiming you are a true believer of TDD.

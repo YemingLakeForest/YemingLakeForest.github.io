@@ -3,6 +3,7 @@ layout: post
 title:  "Back on the Road Again 重新上路"
 date:   2019-08-10 16:11:16 +0100
 categories: Rants and Scribbles
+comments: true
 ---
 直至2019年第三季度，我参加工作正好7年。<!--MORE--> 在'7'这个魔法数字面前，以及人生第二次职业转型的节骨眼上，
 我是时候稍对过往7年的工作事业做个简短的总结了。这篇博文主要是写给我自己，特别是7年后，或是 ``while(isAlive) {age += 7;}``

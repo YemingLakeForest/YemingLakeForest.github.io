@@ -3,15 +3,7 @@ layout: post
 title: Bamboo Can’t Git
 date: '2018-05-11 16:11:16 +0100'
 categories: Rants and Scribbles, Software
-comments:
-  - author:
-      type: full
-      displayName: YemingLakeForest
-      url: 'https://github.com/YemingLakeForest'
-      picture: 'https://avatars2.githubusercontent.com/u/6832909?v=4&s=73'
-    content: Does it finally work?
-    date: 2019-07-11T08:46:16.590Z
-
+comments: true
 ---
 
 Bamboo is undoubtedly the weakest link in the Atlassian family. Somehow it seemingly did not enjoy the same level of love and attention as its siblings, Jira, Bitbucket, you name it. It’s the middle child, the Ringo Starr, an app that apparently put together by a gang of 3-rated grumpy developers from some forgotten location. It’s so irrelevant that it even got it’s ‘cloud’ status confiscated.

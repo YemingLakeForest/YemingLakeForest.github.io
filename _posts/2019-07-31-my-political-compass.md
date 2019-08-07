@@ -3,6 +3,7 @@ layout: post
 title:  "My Political Compass"
 date:   2019-07-31 16:11:16 +0100
 categories: Random Thoughts
+comments: true
 ---
 I did some online questionnaire that accesses your 'political compass' through a series of multiple choice questions.
 

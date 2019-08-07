@@ -3,6 +3,7 @@ layout: post
 title:  "To Test or Not to Test"
 date:   2018-04-25 16:11:16 +0100
 categories: Software
+comments: true
 ---
 
 Unit testing is so central to software development, that code bases with next to none test coverage hardly could make their way to production. Your blogger, same as many of you, live in a world where time and resources are scarce. One will have to be mindful of on what to test and what not to when working on an under-tested code base.
