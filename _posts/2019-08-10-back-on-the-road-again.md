@@ -498,11 +498,39 @@ the technical department only gets a small slice of the cake, but as a relativel
 I was quite well rewarded. And we will now smoothly transition to the next chapter, what I've got.
 
 #### 1·1
-__What I've Got__
+__What I've Achieved__
 
+Bai Yansong once said that, [failure is not the mother of success, rather, victory is the mother of success](http://news.ifeng.com/a/20160907/49929707_0.shtml)). 
+I deeply agree with this. Over the years I have witnessed first hand and participated in the whole progress of 
+software projects from scratch. Learn how to turn the ideas and ideas of customers and traders into a robust, scalable systems. 
+The successful delivery of these high profile projects has built up my confidence in this industry. 
+I participated in these projects as project manager, personnel supervisor, and technical backbone, 
+as well as getting my hands dirty to lead charges up front. This mentality gave me confidence to take on any complex 
+development projects and challenges.
 
+Apart from some bureaucratic matters, I rarely needed to report to my direct manager. I directly engage to clients and 
+business owners. An autonomous environment is also an important factor that propelled my growth.
 
+Through these years I rose up the corporate ladder pretty quickly and grasped all possible opportunities for promotion. 
+I made VP in the fourth year since graduation. This was partially due to the trend of corporate title inflation back in those days. 
+More importantly, I had a good nurturing boss, to whom I felt grateful, even till this day.
 
+When I was the team lead in Citi, my subordinates were scattered around the world. Why is this so? 
+Bulge bracket banks like Citigroup had this practice of setting up "centres of excellence" (COE). So what the hell are these?
+The COE is the politically correct term for a cheap locations. These COEs are offices established by the firm in 
+third world countries to cut costs.
+
+I had a team member in the COE of Belfast, who later transferred a different team in the bank.
+Before he left, he told me that he would well remember what I've taught him all these time. My ego was much boosted.
+
+To sum up, the most import thing I achieved in Citi is growth. To add a bit more, I have achieved the 'title'.
+Some argues that titles are all non-substantial. Yet very few would be willing to give their titles away.
+This title itself does not have any practical significance, and no one will really call you Mr VP. 
+But your status in the industry (gravitas) backed by the title is real. Each major bank has a strict salary bands 
+for each title. Having achieve certain title it is also beneficial in job hunting. 
+The new company will always have to match you the corresponding title you have obtained.
+
+So why move? You may ask. Sit tight, here comes the roast.
 
 
 
