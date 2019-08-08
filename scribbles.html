@@ -1,13 +1,14 @@
 ---
-layout: default
-type: full
-
+layout: page
+title: Scribbles
+permalink: /scribbles/
 ---
 
 <div class="home">
 
     <ul class="posts">
         {% for post in site.posts %}
+        {% if post.categories contains "Rants_and_Scribbles" %}
         {% unless post.zhUrl %}
         <li>
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -21,6 +22,7 @@ type: full
         </li>
         <br>
         {% endunless %}
+        {% endif %}
         {% endfor %}
     </ul>
 

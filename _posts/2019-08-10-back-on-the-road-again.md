@@ -589,9 +589,18 @@ In retrospect, it was a quite a feat that I could handle so these bureaucracy wh
 Some would say that this is a common problem for big firms. If you can't adapt to it, change it,
 which point I agree with in principle. Well, I got three stories to tell, please hear me out.
 
-
+The first story was about the bank's management of password files. 
+Every year, the company goes through a technology audit by KPMG to assess the health of the software system. 
+Um, well, it's KPMG. It didn't feel right to get audited by some lesser firms in terms of tech.
+Of course, external auditing is always necessary, and they did found some problems. One of the themis that some of 
+the system's passwords stored naked in files.
  
+This problem was not a real problem. Some people think that the bare password will be used by malicious 
+programmers. This view is dumb, and if the programmer needs it, there are countless ways break the systems. 
+Some would think that this would make it easier for external attacks. Another stupid view, now that they are in your
+intranet, would the hackers still need your password?
 
+![Face Palm](/assets/face-palm.jpg)
 
 
 
