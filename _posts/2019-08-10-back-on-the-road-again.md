@@ -2,7 +2,7 @@
 layout: post
 title:  "Back on the Road Again 重新上路"
 date:   2019-08-10 16:11:16 +0100
-categories: Rants and Scribbles
+categories: Rants_and_Scribbles
 comments: true
 ---
 直至2019年第三季度，我参加工作正好7年。<!--MORE--> 在'7'这个魔法数字面前，以及人生第二次职业转型的节骨眼上，
@@ -24,20 +24,20 @@ comments: true
 时不我待，我没法迷茫太久。我跟打鸡血似的投报了伦敦各大投资银行的应届毕业生录取计划。乱面了几次之后我逐渐掌握了投行面试的套路，
 后陆续收了三间银行的 offer。
 
-在权衡得失利弊后，我选择了三间银行中其中一间，兴高采烈上班去了。这就是我在内任职了5年的花旗银行。
+在权衡得失利弊后，我选择了三间银行中其中一间，兴高采烈上班去了。
 
 &nbsp;
 
 ## 壹
 ----
 2012年秋天，我作为毕业生加入了伦敦花期银行的 ICG Global Markets Technology（企业客户部全球市场交易技术部门）。你不用 Google 了，
-你搜也搜不到，大公司的企业架构名称总变来变去的。简单来说这就是是花旗的投行部技术部门。干'金融码农'。
+你搜也搜不到，大公司的企业架构名称总变来变去的。简单来说这是投行部技术部门。干'金融码农'。
 
 我不同意也不喜欢'码农'这个描述。'农'这个字有劳动密集型工作的涵义（没有诋毁农业工作者的意思）。而软件工程师的核心任务,
 恰恰是消除劳动密集型的工作。如果你当软件工程师，当成了个'农'，净干些重复劳动，那你这工程师就别当了。
 
-从2012年作为应届生加入公司到2017年底跳槽，我在花旗效力了5年有余。5年的经历全写出来写10篇文都不够。总结下来，我会以**做了什么**，
-**得到什么**，**为什么离开**这三方面说说在花旗这几年的喜怒得失。
+从2012年作为应届生加入公司到2017年底跳槽，我在公司效力了5年有余。5年的经历全写出来写10篇文都不够。总结下来，我会以**做了什么**，
+**得到什么**，**为什么离开**这三方面说说在这间企业这几年的喜怒得失。
 
 #### 壹·零
 __做了什么__
@@ -47,7 +47,7 @@ __做了什么__
 难写当然不是因为不知道自己做过什么，不然把直接简历复制黏贴来就好了。难在于如何在做过的芸芸众项目里提炼一些出可圈点的，
 有持续性系统性贡献的遗产。
 
-我在花旗的大部分时间任职于期货期权交易清算抵押管理技术部门（Futures Clearing and Collateral Management, 简称 Fucc'm，
+我在公司的大部分时间任职于期货期权交易清算抵押管理技术部门（Futures Clearing and Collateral Management, 简称 Fucc'm，
 真的，我座位头顶天花板上挂的牌子就这么写的），服务于期货期权电子交易及风险控制业务。你看这部门名称不能硬译，译出来也白瞎。
 
 刚进组的时候，我的天，整个技术架构就一西部，等着我去大开发。持续集成约等于没有，自动部署没有，代码仓库是SVN。记得第一次观摩同事做部署，
@@ -56,19 +56,19 @@ __做了什么__
 
 这当然不是个事儿。我在组内的几年时间里，在保证项目进度输出的前提下，对下辖软件系统的 SDLC 成熟度持续不断地进行着改进。
 把代码仓库从 SVN 移到了内部主持的 git server，再移到了全银行共用的 Bitbucket。最初我们的软件是直接部署在裸金属（bare metal）服务器上的，
-我陆续地把它们移到虚拟机，而后又全部移植到花旗的内部云里。我陆续地把持续集成，自动部署，自动测试，静态代码质量分析，代码质量把关等系统一一建立。
+我陆续地把它们移到虚拟机，而后又全部移植到公司的内部云里。我陆续地把持续集成，自动部署，自动测试，静态代码质量分析，代码质量把关等系统一一建立。
 而后，我又在各不同业务领域内的项目标准化了技术骨架和构建方法。这让后代陆陆续续加入的工程师们可以很舒服地在我们的系统上进行开发，
 同时保证着在这框架内产出的软件的质量相对高。
 
-一言以概之，我在花旗做的最重要的一件事，是向所管辖的系统**注入了可持续地，往横向扩展的 DNA**，并且把它这一定程度上传播到部门内其它的姐妹系统中。
+一言以概之，我在这做的最重要的一件事，是向所管辖的系统**注入了可持续地，往横向扩展的 DNA**，并且把它这一定程度上传播到部门内其它的姐妹系统中。
 那段时间公司爱搞软件成熟度模型评估（software maturity model scorecard），我的系统总能出现在大部门的榜单上。这也是很能让我的老板脸上有光的。
 我当时的小老板还以此作为他的'政绩'之一拿去搞升职了，哈哈哈哈，笑死我了。
 
 至于在业务上，我留下的遗产是，**把一个服务数名内部员工的软件系统，扩展到可以满足内外部客户需求的软件服务**。
 这系统最早就只安装在了几个风险管理人员的台式机上，追踪监测客户的维持保证金（maintenance margin）需求。在我离开前，
-系统已经被反转成能满足实时即席保证金运算的服务，并且把这服务公开在了 citivelocity.com 平台上，供外部客户使用。因为这个项目的交付，
+系统已经被反转成能满足实时即席保证金运算的服务，并且把这服务公开在了公司门户网站平台上，供外部客户使用。因为这个项目的交付，
 公司赢得了新加坡一政府背景投资机构的业务。这在当时还是很能让不少人乐呵的一个成绩。虽说在投行环境里，技术部门只能切到一小块蛋糕，
-然而我作为新人完成这些任务，还是得到了各方面的回报。这就很自然地转接到了下一个章节，看看我在花旗得到了什么。
+然而我作为新人完成这些任务，还是得到了各方面的回报。这就很自然地转接到了下一个章节，看看我这些年得到了什么。
 
 #### 壹·壹
 __得到什么__
@@ -78,19 +78,19 @@ __得到什么__
 这些备受瞩目项目的成功交付，让我建立起在本行业立足的信心。能以项目管理，人事主管，技术骨干的身份参与这些项目，
 并和(哥|姐)几个撸起袖子拼得一些成绩，这份心理优势（mentality）可以让我有底气信心揽下任何同等规模，甚至更复杂的开发任务。
 
-在花旗的大部分时间，除了人事和一些官僚的事物外，我很少需要和我的直系领导汇报。我直接对我们的客户负责。
+在公司的大部分时间，除了人事和一些官僚的事物外，我很少需要和我的直系领导汇报。我直接对我们的客户负责。
 自主性强的环境也是让我能够快速成长的重要因素。
 
 那几年这企业阶梯我攀爬地可是相当顺利，火箭似地升，能升职的机会全都把握住了，在第四年升成了 VP。一部分的原因在于我搭上了职称膨胀的快车，
 同时也遇到了愿意栽培我的好领导。对这位有知遇之恩的领导，到今天我还是非常地心存感激。
 
-我当组长那年，领导了一帮散落在世界各地的小弟们。为什么会这样呢？像花旗这样的大企业爱搞一些'卓越中心'（centre of excellence, 简称 COE）。
+我当组长那年，领导了一帮散落在世界各地的小弟们。为什么会这样呢？我们这样的大企业爱搞一些'卓越中心'（centre of excellence, 简称 COE）。
 这什么东西？COE 是廉价劳工地点（cheap location）的政治正确的称呼。这些 COE 是公司为了节省成本，在亚非拉各地成立的办事机构。
 
 我在北爱 Belfast 的 COE 里有个小弟（其实该小弟比我年纪还大）。这大小弟后来转组，临走前跟我说，我不会忘记你教过我的东西。
 这让我膨胀了好一阵子。
 
-非要总结的话，在花旗这几年我得到最多的是成长。如果非要再说点什么，就是获得了 title （职称）。有某大牛说过，
+非要总结的话，这几年我得到最多的是成长。如果非要再说点什么，就是获得了 title （职称）。有某大牛说过，
 [职位，title 都是虚的](https://coolshell.cn/articles/10688.html)。那是扯淡。要真是虚的，让你把自己 title 给免了试试？
 这职称本身固然没有什么实际意义，也没人会真的管你叫黄VP的。但 title 背后代表着的你在行业内的江湖地位（gravitas）却是实打实的。
 各大行对 title 都有严格的薪金水准定位，而且有了 title 找工作上便利也不少，新的公司总得给你对应上你曾获得的职称。
@@ -102,33 +102,33 @@ __为什么离开__
 
 终于到这章节了。写这么久就等着写这个。
 
-干得这么好干嘛要走啊。身边的人，包括家人，太太，都会对我要跳槽的决定感到疑惑。事实上，在花旗后面的这几年，我的心理状态越来越糟糕。痛苦，煎熬，悲怆
-（好像其实也没那么夸张）。有一点是确定的，在花旗最后的一年，我吃了秤砣子，要离开的信念相当笃定。
+干得这么好干嘛要走啊。身边的人，包括家人，太太，都会对我要跳槽的决定感到疑惑。事实上，在公司后面的这几年，我的心理状态越来越糟糕。痛苦，煎熬，悲怆
+（好像其实也没那么夸张）。有一点是确定的，在公司最后的一年，我吃了秤砣子，要离开的信念相当笃定。
 
 为啥呢？三点。
 
 第一，__*那是跳槽的最优化时机*__。那年我刚升上了 VP。在银行里，VP （副总监）这个职称，一般正常人，俩眼睛一嘴俩胳膊俩腿，过个几年总能搞上去。
-再往上要变 Director 就需要人脉年资各种的积累了。我并不想在花旗蹲太久。再者，英国的移民政策允许连续工作了5年的外国人申请永久居留，
+再往上要变 Director 就需要人脉年资各种的积累了。我并不想在这蹲太久。再者，英国的移民政策允许连续工作了5年的外国人申请永久居留，
 就业情况不受限制。这个时候刚好移民监也坐完了，心里的什么想法也应该在这个时候有了。
 
-我在花旗银行连续工作了5年，虽说每年都会涨薪不少，但因毕业生的基数低，我那时的工资水平是远低于市场价的。有天我手贱，
-跑去 Glassdoor 评估自己的工资水平。谁知一输入，哎？花旗银行的 Vice President 薪金统计数据的下界，怎么就变成了我的工资了呢？
+我在这个企业连续工作了5年，虽说每年都会涨薪不少，但因毕业生的基数低，我那时的工资水平是远低于市场价的。有天我手贱，
+跑去 Glassdoor 评估自己的工资水平。谁知一输入，哎？本银行的 Vice President 薪金统计数据的下界，怎么就变成了我的工资了呢？
 
 你说这咋整？
 
-第二，在花旗最后这一两年我的技术水平和业务知识提升得越来越慢。交到我手上的任务变得越来越同质化。当任务日渐趋同，我内心不安全感与日俱增。
+第二，在公司最后这一两年我的技术水平和业务知识提升得越来越慢。交到我手上的任务变得越来越同质化。当任务日渐趋同，我内心不安全感与日俱增。
 再这么搞下去，我这技能会越来越与市场需求不相干。__*是时候多样化自己的经历和技能了*__。
 
-诚然，在花旗积累下的人脉年资，让我在这企业逐步上升，搞个 Director 当当不是没可能。可是这么搞，我就是在做空波动率（short volatility）。
-什么意思呢？如果我决定待在花旗不走，我就是在期待周遭一切趋于静止，公司不会裁员，业务部门不会被砍，人脉环境不会变动，业务市场不会萎缩。
+诚然，在公司积累下的人脉年资，让我在这企业逐步上升，搞个 Director 当当不是没可能。可是这么搞，我就是在做空波动率（short volatility）。
+什么意思呢？如果我决定待在公司不走，我就是在期待周遭一切趋于静止，公司不会裁员，业务部门不会被砍，人脉环境不会变动，业务市场不会萎缩。
 这些外部条件一旦渐渐消失，我屁股热着的这个位置的处境就会越发危险。继续这样下去我就变得脆弱。
 而我要把自己变得[反脆弱（anti-fragile）](https://www.amazon.co.uk/Antifragile-Things-that-Gain-Disorder/dp/0141038225)，
 我得强化自己技能的宽度硬度，做多波动率（long volatility），别让个什么风暴把自己给整个推了。
 
-为什么在后来我在花旗的能力提升慢起来了呢，这很大程度上归咎于公司一些制度性，哲学上的问题。你看，我一下就把这格局拉这么大了。
+为什么在后来我的能力提升慢起来了呢，这很大程度上归咎于公司一些制度性，哲学上的问题。你看，我一下就把这格局拉这么大了。
 下面我说说这都是些什么制度问题。
 
-我离开花旗的第三个，也是最重要原因在于，这些年来，我看清了这个公司，在哲学的层面上，
+我离开公司的第三个，也是最重要原因在于，这些年来，我看清了这个公司，在哲学的层面上，
 [像陈皓同志说的](https://coolshell.cn/articles/17737.html)，__*偏向通过管理解决问题，而不是通过技术解决问题*__。
 这是我最不能苟同，甚至痛恨的一点，也是我在公司后期痛苦煎熬的根本源泉。
 
@@ -165,7 +165,7 @@ REST 放送的内容真的安全？全公司的系统都访问你的 API，你�
 第二个故事也很好玩儿。
 
 有一天，一个内部电话打了进来，对方是一位操着东欧口音的阿姨（估计是布达佩斯'卓越中心'的）。她说，我们监察到，你的系统有通过 ftp 传输数据。
-你给我个 deadline（死线），什么时候把 ftp 管道移植到 sftp 上呢？我心里一堆问号，这又搞个什么大龙凤？后来了解到，是花旗日本的某部门，
+你给我个 deadline（死线），什么时候把 ftp 管道移植到 sftp 上呢？我心里一堆问号，这又搞个什么大龙凤？后来了解到，是日本分公司的某部门，
 用 ftp 传输泄漏了数据。上头很生气，决定又来一次一刀切，把所有 ftp 传输管道都给毙掉。
 
 我心里好笑极了。诶，我是在访问 CME（芝商所）的公开交易数据哎，为什么要用 sftp ？阿姨不知道听懂了没有，接着问，那你什么时候能解决呢？
@@ -176,14 +176,14 @@ REST 放送的内容真的安全？全公司的系统都访问你的 API，你�
 
 还有第三个故事，这件事是压垮骆驼最后的几根稻草之一。
 
-前面说过，在花旗部署系统前要搞好几天的文件工作。这包括填个十几页的部署预案表格。谁有空填那个呀。那时后我就让我的一位小弟，
+前面说过，部署系统前要搞好几天的文件工作。这包括填个十几页的部署预案表格。谁有空填那个呀。那时后我就让我的一位小弟，
 用 selenium WebDriver 写了个自动填表系统，一键完成这些傻工作。乐呵了没几天，我们被告知这自动填表系统不能用了。
 原因是这消息传到了系统部署管理部门耳朵里（没错，有这么个部门，我一直认为这些部门是用来创造就业的）。他们说你们这些人，
 怎么能这样绕过部署规范流程呢？
 
 ![Face Palm](/assets/face-palm.jpg)
 
-平心而论，花旗银行的确是个很好的企业。在这企业里我也遇到了很多在其领域卓越出众的人。**花旗内部有个宣言--我们是拿着银行牌照的技术公司
+平心而论，这间投资银行的确是个很好的企业。在这企业里我也遇到了很多在其领域卓越出众的人。**公司内部有个宣言--我们是拿着银行牌照的技术公司
 （we are a technology firm with a banking licence）。我认为它没能实践这句话。**
 
 看到这里，你也应该了解了。这事情我是赢不了的。你若果不能选择输赢，你至少还能选择战场。我要重新选择战场了。
@@ -214,8 +214,8 @@ REST 放送的内容真的安全？全公司的系统都访问你的 API，你�
 带着大公司的惨痛记忆，这轮求职我主要把目标定在中小公司，特别是买方金融机构上。又乱面了几次后，我再一次掌握了面试的套路。又拿了仨 offer。
 这次我选了间小型技术驱动的买方自营交易机构（systematic prop shop）。这次跳槽，简直一下子从光谱的一端直接抛掷到另一端，要多极限有多极限。
 
-这家公司，怎么说呢，很有趣。你看啊，我用了'有趣'这两个字。在英语国家呆过的同志们应该会感受到，当地人说'有趣'（interesting）的时候，
-多半是想不到怎么夸你了，但又想不失礼貌。我这么形容也有那么一点儿这样的想法。同时，用'有趣'的字面意义来形容我这间公司，也非常恰当。
+这家公司，怎么说呢，很有趣。你看啊，我用了'有趣'这两个字。在英语国家呆过的同志们应该会感受到，'有趣'是个礼貌性的形容词。
+我这么形容也有那么一点儿这样的想法。同时，用'有趣'的字面意义来形容我这间公司，也非常恰当。
 
 同样的，我以**做了什么**，**得到什么**，和**为什么离开**这三方面回顾下我在这间公司的经历。
 
@@ -278,7 +278,7 @@ __得到什么__
 总不用只是点头笑而不语，能把问题问在点子上。实现波动率模型时，我把布莱克76模型（Black 76）和 SABR 模型（Stochastic alpha beta rho）
 全手撸了一遍。在这个公司我学到了不少的业务知识。
 
-另外，这一年多里我的'云'技能长足进展。以前在花旗，虽说也有"云平台"（这个双引号用得很恰当，花旗的云系统从头到脚都是内部开发的，
+另外，这一年多里我的'云'技能长足进展。之前的公司虽说也有"云平台"（这个双引号用得很恰当，这个云系统从头到脚都是内部开发的，
 和外部的商业云不能比，最多是个高级的虚拟机管理器），我只是叉车式地把系统移植到云上。现在这间公司对云的运用更加深入，
 恨不得把整套系统都建立在云端上。
 [我也顺便去考了个 AWS 云计算开发人员资格证](/rants/and/scribbles/2019/07/03/i-passed-aws-cert-developer/)。
@@ -286,7 +286,7 @@ __得到什么__
 总结来说，在这间小公司的经历，**多样化了我的知识技能**。这具有非常显性的效果。最近一次工作面试，我对该单位的大领导说，
 我认为我的技能，经验与贵司的需求相当的匹配。那大领导说，呵呵呵，可不咋的，是我挑的你的简历啊，你忘了？你以为是随机的呢？
 
-这件小公司算是可以实现我之前提到的三个从花旗跳槽的愿景。如果可以，我是愿意长期在本公司效力下去的。
+这件小公司算是可以实现我之前提到的三个从上一间公司跳槽的愿景。如果可以，我是愿意长期在本公司效力下去的。
 可惜，有这么一道鸿沟，阻挡着，不能让我这么做。我在公司时间越久，这道鸿沟越来越大。下面我来说说这是道什么鸿沟。
 
 #### 贰·贰
@@ -333,7 +333,7 @@ __重新上路__
 
 多次面试与被面试，我对于‘工作面试’这事有这么几点观察，欢迎各位同志评论指导。
 
-第一，我们大家高估了面试表现与实际工作表现之间的相关性。换句话说，面试技巧与工作技能是相互独立的两种属性。在花旗我面过俩哥们。
+第一，我们大家高估了面试表现与实际工作表现之间的相关性。换句话说，面试技巧与工作技能是相互独立的两种属性。之前我面过俩哥们。
 哥们A面试的时候对答如流，简直一行走的 Java 题库。哥们B就没答得那么溜，而且还有点小个性，面试过程很不流畅。我给的反馈是A优于B。后来我们预算充盈，
 俩哥们都招了。实际工作时，我发现他们的工作表现与面试相反，A按部就班，能完成任务但也仅此而已，当一天和尚敲一天钟。B这哥们除了完成本职工作，
 还能很有批判性地思考，指出流程中不合理的部分，并发挥主观能动性带头做优化。
@@ -434,14 +434,14 @@ After a few misses, I gradually mastered the routine of the investment bank inte
 and subsequently received the offers of three banks.
 
 After weighing the pros and cons of the gains and losses, I chose one of the three banks and went to work happily. 
-The bank was Citi, in where I spent 5 good years of my career in.
+I spent 5 good years of my career in this place
 
 &nbsp;
 
 ## 1
 ----
-In the fall of 2012, I joined the Citi's ICG Global Markets Technology as a graduate. 
-Simply put, this is the technology arm Citi's investment banking department. In Chinese context, 
+In the fall of 2012, I joined the the bank;s Global Markets Technology as a graduate. 
+Simply put, this is the technology arm of its investment banking department. In Chinese context, 
 this type of role is often referred as 'financial code farmer'.
 
 I do not agree nor like the description of 'code farmer'. 
@@ -449,9 +449,10 @@ The word 'farming' has the subtle meaning of labor-intensive work (no offence to
 The essence of software engineers is precisely to eliminate labor-intensive work. 
 As a software engineer, if you find yourself 'farming' a lot, you probably are in the wrong trade.
 
-Joined as a grad in 2012, I have been in Citi for more than 5 years. 
+Joined as a grad in 2012, I spent a little more than 5 years in the bank.
 My experience of all these years would warrant 10 blog post or more.
-I will sum up my joys and sorrows in Citi in the aspect of **what I've done, what I've achieved,** and **why I left**.
+I will sum up my joys and sorrows in this company in the aspect of **what I've done, what I've achieved,** and 
+**why I left**.
 
 #### 1·0
 __What I've Done__
@@ -462,8 +463,8 @@ Difficult, of course, is not because you do not know what you have done, otherwi
 The difficulty lies in how to extract some of the legacies of sustainable and systematic contributions in the dizzying 
 array of projects that have been done.
 
-Most of the years in Citi was spent in Futures Clearing and Collateral Management (Fucc'm, that's right, 
-this is how the sign above my head reads), serving the Futures eTrading and Risk business.
+I spent most of my time in the bank within the Futures Clearing and Collateral Management (Fucc'm, that's right, 
+this is how the sign above my head reads) technology department, serving the Futures eTrading and Risk business.
 
 When I first joined the team, jeez, the entire tech stack was a big wild west.
 Continuous integration was next to non-exist, one click deployment was not there, 
@@ -476,7 +477,7 @@ I was shocked out of the roof.
 It certainly can't go on like this. During the my years in the team, I continued to improve the SDLC maturity of the 
 software system under the premise of ensuring the progress of projects. I moved the code repository from SVN to the 
 internally hosted git server and then to the Bitbucket shared by the entire bank. Initially our software was deployed 
-directly on bare metal servers, and I moved them to virtual machines. And then they were all migrated to Citi's internal
+directly on bare metal servers, and I moved them to virtual machines. And then they were all migrated to the firm's internal
 cloud. I have successively established systems such as continuous integration, automatic deployment, automatic testing, 
 static code quality analysis, and code quality gates. Also, I standardized the technology structure and build methods for 
 projects across different business areas. This allows future generations of engineers to join to develop on our systems 
@@ -484,7 +485,7 @@ with ease, while ensuring that the quality of the software produced within this 
 
 In a nutshell, the most important legacy I left was that I injected the **sustainable, horizontally scalable software development
 DNA into my systems**, and spread it to other sisters in the wider organisation to some extent. 
-Citi loved scorecarding systems based on their software maturity, and my system always appeared 
+This company was quite fund of scorecarding systems based on their software development maturity, and my system always appeared 
 on the top lists within the department. This kind of made every one look good.
 My direct manager back then even used it as one of his 'achievements' to justify his promotion. I laughed my head off.
 
@@ -492,7 +493,7 @@ As for the business, my legacy was to extend a software system that serves sever
 service that can meet the needs of numerous internal and external customers. The system was first installed on the 
 desktops of several risk managers, tracking and monitoring our clients' maintenance margin requirements. 
 By the time I left, the system has been reversed to a service that satisfies real-time ad hoc margin calculations, 
-and the service is exposed on the citivelocity.com platform for use by external customers. Because of the delivery of 
+and the service is exposed on the portal site for use by external clients. Because of the delivery of 
 this high profile project, the company won the business of a government backed investment institution in Singapore. 
 This was quite an achievement back then and put a smile in many's faces. Although in the investment banking environment, 
 the technical department only gets a small slice of the cake, but as a relatively junior guy delivering all these, 
@@ -516,15 +517,15 @@ Through these years I rose up the corporate ladder pretty quickly and grasped al
 I made VP in the fourth year since graduation. This was partially due to the trend of corporate title inflation back in those days. 
 More importantly, I had a good nurturing boss, to whom I felt grateful, even till this day.
 
-When I was the team lead in Citi, my subordinates were scattered around the world. Why is this so? 
-Bulge bracket banks like Citi had this practice of setting up "centres of excellence" (COE). So what the hell are these?
+When I was a team lead, my subordinates were scattered around the world. Why is this so? 
+Bulge bracket banks had this practice of setting up "centres of excellence" (COE). So what the hell are these?
 The COE is the politically correct term for a cheap locations. These COEs are offices established by the firm in 
 third world countries to cut costs.
 
 I had a team member in the COE of Belfast, who later transferred a different team in the bank.
 Before he left, he told me that he would well remember what I've taught him all these time. My ego was much boosted.
 
-To sum up, the most import thing I achieved in Citi is growth. To add a bit more, I have achieved the 'title'.
+To sum up, the most import thing I achieved is growth. To add a bit more, I have achieved the 'title'.
 [Some argues that titles are all non-substantial](https://coolshell.cn/articles/10688.html)). 
 Yet very few would actually be willing to give their titles away.
 Titles themselves do not carry practical significance, no one is going to address you as Mr VP. 
@@ -540,31 +541,31 @@ __What I Left__
 Finally. I waited too long to write this.
 
 Why are you doing this? People around me, family and wife, were confused about my decision to quit. 
-In fact, during the final years in Citi, my mental state was progressively worsen. I felt pain, suffering and grief 
-(ok I exaggerated a little). One thing was certain. In the last year of Citi, I had made up a firm mind to leave.
+In fact, during the final years in the bank, my mental state was progressively worsen. I felt pain, suffering and grief 
+(ok I exaggerated a little). One thing was certain. In the last year of my tenure, I had made up a firm mind to leave.
 
 3 main factors.
 
 First, **that was the optimal time to move**. As stated I made VP that year. In banks, the title of VP (Vice President) 
 is generally an achievable goal. To get promoted to Director, though, needs years of glooming.
-I don't want to spend too much time in Citi. Furthermore, the UK's immigration policy allows foreigners who have 
+I didn't want to spend all of my career there. Furthermore, the UK's immigration policy allows foreigners who have 
 worked continuously for five years to apply for permanent residence, then employment won't be restricted. 
 Now that I have done my sentences I was naturally encouraged to plan for a move.
 
-I have been working at Citi for five consecutive years. Albert having good raises each year
+I had been working at the same bank for five consecutive years. Albert having good raises each year
 my salary level is far below the market because of the low base of graduates. 
 There was this time that I was dumb enough to assess my salary level in Glassdoor. So I entered my salary. Oh, 
-my salary just became the lower bound of the Vice President’s salary statistics for Citi.
+my salary just became the lower bound of the statistics for Vice President in that bank.
 
 Tough!
 
-Secondly, my technical skills and business knowledge have been improving much slower during the last two years in Citi. 
+Secondly, my technical skills and business knowledge have been improving much slower during the last two years. 
 The tasks handed over to me are becoming more and more homogeneous, and I am became increasingly insecure.
 My skills will become more and more irrelevant to market. **It's time to diversify my experiences and skills.**
 
 Given my position and the connections I accumulated, is not impossible for me to rise up the rank and make Director
 one day. However, to do this I will be shorting volatility. What do I mean, you ask.
-If I decide to stay in Citi, I am betting things are going to be static, the company will not lay off staffs, 
+If I decide to stay, I am betting on things to stay static, the company will not lay off staffs, 
 the business department will not be cut, the my network in the firm will still be there, and the market 
 will not shrink. Once these external conditions fade away, my position would be endangered.
 I will become fragile. And I want to be anti-fragile, I have to strengthen the width and depth of my skills, 
@@ -573,15 +574,15 @@ and long volatility.
 The slow down of my improvement is largely due to some institutional and philosophical problems of the company. 
 See how I raise up the whole topic here? Let's talk about these institutional issues I faced.
 
-The third and the most important reason why I left Citi is that over the years, I realised that the firm, as [put by
+The third and the most important reason why I left is that over the years, I realised that the firm, as [put by
 Chen Hao, tent to solve problems through management rather than technology](https://coolshell.cn/articles/17737.html). 
 This is the very point I disagree with the firm and despite. It is also the fundamental cause of my grievances
 in my final days in the company.
 
-As a junior team lead in the firm I was buried with all sorts of ruthless bureaucratic formalism work produced by 
-the company. A variety of weird spreadsheets to be filled. At least two days of paperwork before each deployment, 
-with eight approvals to chase. There's always someone from some part of the company you never heard up jumping up to 
-chase you for paperwork. Every Wednesday, you receive a scorecard about paperwork completion cc'd to all big cheeses,
+As a junior team lead in the firm I was buried with all sorts of ruthless bureaucratic formalism work. 
+A variety of weird spreadsheets to be filled; at least two days of paperwork before each deployment, 
+with eight approvals to chase; there's always someone from some part of the company you never heard up jumping up 
+out of no where to chase you for paperwork. Every Wednesday, you receive a scorecard on paperwork completion cc'd to all big cheeses,
 and risk of being in their 'naughty list'. I lost sleep on dump things as such.
 In retrospect, it was a quite a feat that I could handle so these bureaucracy while ensuring the projects' delivery.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "I Passed the AWS Certified Developer Exam"
 date:   2019-07-03 16:11:16 +0100
-categories: Rants and Scribbles
+categories: Rants_and_Scribbles
 comments: true
 ---
 I booked the AWS Certified Developer – Associate exam about half a year ago to help my firm spend some of its training budget. I (kind of) forgot about it until it was too late to. Too late being 2 days prior to the exam.

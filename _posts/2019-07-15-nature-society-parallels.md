@@ -2,7 +2,7 @@
 layout: post
 title:  "Parallels Drawn between Nature and Society"
 date:   2019-07-15 16:11:16 +0100
-categories: Random Thoughts
+categories: Random_Thoughts
 comments: true
 ---
 
