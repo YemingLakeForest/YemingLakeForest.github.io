@@ -602,9 +602,22 @@ intranet, would the hackers still need your password?
 
 ![Face Palm](/assets/face-palm.jpg)
 
+Compliance did not necessary shared the same view. Compliance made a panic move to on-board a password management system.
+Now passwords were not scattered all over the place. To set passwords, you send 
+someone to log in to our system and type in the password, then forget it (that's right). Get your password in real time by 
+accessing a REST API at the start of your system. Hearing this password thing, I face palmed.
 
+This is masturbation, to make you feel better, and the actual effect is not there at all. 
+Do you really think that set and forget is feasible? Is REST content really safe? When the whole bank's systems access
+your API, are you sure you won't be denial of access (DoS)?
 
+Compliance has set a dead line, stipulating that all software systems company-wide should be on-board in time. 
+There were some pioneering teams to use this system. Let's say disappointed was an understatement. The anticipated DoS
+happened and they could not access password in production environment. And the password system was put on ice.
 
-
+There are many ways to manage passwords, the best being no password. No password does not mean there is no authentication, 
+there are many ways to implement system authentication without passwords. When the firm tried to solve problems through 
+management methods rather than technology, and laymen to run the effort with one-size-fits-all approach, failure is 
+inevitable.
 
 
