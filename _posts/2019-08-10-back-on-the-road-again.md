@@ -598,14 +598,14 @@ the system's passwords stored naked in files.
 This problem was not a real problem. Some people think that the bare password will be used by malicious 
 programmers. This view is dumb, and if the programmer needs it, there are countless ways break the systems. 
 Some would think that this would make it easier for external attacks. Another stupid view, now that they are in your
-intranet, would the hackers still need your password?
-
-![Face Palm](/assets/face-palm.jpg)
+intranet, what make you think the hackers would need your passwords?
 
 Compliance did not necessary shared the same view. Compliance made a panic move to on-board a password management system.
 Now passwords were not scattered all over the place. To set passwords, you send 
 someone to log in to our system and type in the password, then forget it (that's right). Get your password in real time by 
 accessing a REST API at the start of your system. Hearing this password thing, I face palmed.
+
+![Face Palm](/assets/face-palm.jpg)
 
 This is masturbation, to make you feel better, and the actual effect is not there at all. 
 Do you really think that set and forget is feasible? Is REST content really safe? When the whole bank's systems access
@@ -619,5 +619,75 @@ There are many ways to manage passwords, the best being no password. No password
 there are many ways to implement system authentication without passwords. When the firm tried to solve problems through 
 management methods rather than technology, and laymen to run the effort with one-size-fits-all approach, failure is 
 inevitable.
+
+The second story was also a good one.
+
+So I got phoned up one day, it was a lady with Eastern European accent.
+(probably from the Budapest Center of Excellence). She said that they found that our systems had been transferring data 
+via ftp. And she asked a deadline from me to port all ftp pipelines to sftp. 
+Later I learned that it was a department of the Japanese branch that leaked data with ftp transmission. 
+Some big cheeses were very crossed and decided to slash all the ftp transmission pipes.
+
+I told her that I am visiting (CME Group) public data, why use sftp? 
+She didn't seemed to have got the gist and asked when can I resolve this. I later told her that CME data currently only provides ftp access. 
+If you have to do sftp, I can contact them, ask for the asking price for porting to sftp. So which department should 
+I bill this on?
+
+The lady did not bother me any more.
+
+There is also a third story, one of the last few straws that crushed the camel.
+
+As mentioned earlier, it is necessary to do a few days of paperwork before each system deployment. This includes 
+filling out a dozen pages of release plan forms. Ain't nobody got time for that. I had one of my guys to write a 
+automatic form filling system with Selenium WebDriver.
+After a few days of fun, we were told that this automatic filling system could not be used anymore. 
+The reason is that the news reached the ears of the release management department
+(yes, there is such a department, I always think that these departments are job creation schemes). 
+They said you guys can't just by pass the software deployment process.
+
+![Face Palm](/assets/face-palm.jpg)
+
+In all fairness, this bank is indeed a great company. I met many people who are outstanding
+in their own respective fields. There is a saying inside the company – we are a technology firm with a banking licence. 
+I don't think it lived up to it.
+
+You can probably see by now, I can't win this thing. If you can't choose to result of battle, you can at least choose the battlefield. 
+And now I have to re-select the battlefield.
+
+&nbsp;
+
+---
+> Half Time break
+
+![Spiderman Dancing](/assets/spiderman_dancing.gif)
+
+I used this dancing spider man as loading gif for my systems. See how cute he is.
+
+You guessed it, not that everyone likes the spider man. I had to change the gif but left the file name unchanged.
+Now all loading images in my systems are called ``spiderman_dancing.gif``.
+
+---
+
+&nbsp;
+
+## 2
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
