@@ -11,7 +11,6 @@ comments: true
 
 一改本站其他博文的风格，此文是以中文写作的。选择中文的原因是，在谈论'事'和'物'时，我喜欢用工作语言（英文）表达。
 但在讲'人'的时候，而这个'人'又是自己，用母语表述最好不过。为了本站观感的一致性，我会在本文正文之后附上英文译文。
-为了~~偷懒~~高效，本文英文版是我用 Google Translate 跑一遍再加以修饰的产物。
 
 本文略长，一万来字，慢慢看。
 
@@ -417,7 +416,6 @@ This article was written in Chinese.
 The reason for choosing Chinese is that when I talk about 'things', I like to express myself in my work language (English). 
 But when it comes to 'people', and this 'person' is himself, it is best to express it in a mother tongue. 
 For the consistency of the look and feel of this site, I will attach an English translation (what you are looking at). 
-Since I am ~~lazy~~ efficient, the English version of this article is the product of Google Translate with some refinements.
 
 This is a rather long text, take your time and enjoy.
 
@@ -672,6 +670,72 @@ Now all loading images in my systems are called ``spiderman_dancing.gif``.
 
 ## 2
 ----
+In the third quarter of 2017, I went job hunting frenziedly.
+What also went frenzied was the crypto currencies. The bitcoin bubble was at its height, and blockchain start-ups grew like 
+mushrooms. I interviewed with a blockchain firm, which offered a lower salary. The head-hunter's sales pitch went like, 
+oh, blockchain is the most sought after skill in the market now and loads people are taking a pay cut just to get in
+the game blah-blah.
+
+Traumatised by big companies, in this round of job hunting I mainly aimed at small and medium-sized companies, 
+especially the buy-side financial institutions. After a few misses, I once again mastered the interview routine. 
+I took the offer of a small technology-driven buy-side proprietary trading shop. 
+It was a jump all the way across to the other end of the spectrum.
+
+This company, well, is very interesting. See? I used the polite word 'interesting', which also pretty well defined 
+my time at this company in its pure literal sense.
+
+As usual, I'll go over my experience in this company in aspects of **what I've done, what I achieved**, and **why I left**.
+
+#### 2.0
+__What I've Done__
+
+So, what I have done. Let's look at what this company is doing.
+
+The company looks a lot like the office in The Big Short, the one where they got screen hanging all over.
+The company is small, you can look at the entire company at a glance. 
+The company employs about 12 people. Why do I say 'about'? When I first joined, 
+there were a total of five software engineers in the company, as well as traders and two quantitative analysts. 
+There are also some part-time workers like personal assistants, and even COO (Chief Operating Officer) was 
+part-time. Plus the founder and CEO, about twelve people.
+
+The company is small, while, the ambition is big. I'll try briefly explain the mission of the company.
+
+We mainly trade listed options. Options, are like buying an insurance policy, to bet for an unlimited return with limited 
+premium. And that premium you pay is proportional to the length of the policy.
+The longer the insurance period, the higher the premium. Projecting the principle to options, when the expiration date 
+gets closer, and the time you are protected by this “right” gets shorter and the price gets lower. 
+Therefore, at the money option is an ever declining financial product.
+
+This is where all the fun starts. So you are a declining product, why not go short on you. One of the key goals of the 
+firm is to capture time value loss of options with smooth continuous hedging. The business works *if* the theta captured
+is higher than your hedge cost.
+
+See how I italic this *if*. Now this is a big *if*. How on earth are you guys going to achieve that.
+
+You may have noticed that the company is mainly made up of technologists. In fact, the entire company is technology-led, 
+and traders and quants all code themselves. In order to achieve the company's ambitious goals, 
+the CEO's vision is to implement trading strategies faster and more economically through the use of technology, 
+automation, and horizontal systems. And my work in this firm pretty much aligns with this vision.
+
+For companies of this size, the level of automation is quite high. From order placement to allocation and clearing, 
+all processes are driverless. I participated in almost all of these system implementation. Let me go through one of these
+system that I was most proud of and liked to brag about in job interviews, the volatility model manager.
+
+The volatility model is imperative to option houses,
+To put it simply, if you look at the volatility model manager as a black box, the input are market price updates and 
+the outputs are the latest volatility curves. With reusability and horizontal and vertical scalability in mind, 
+I extracted the volatility calculation and curve refit code as library dependencies, and injected those into different 
+business services. The system is capable of refitting either market price or settlement prices. I can refit continuously
+or handle ad-hoc calculation request.
+I also ran the computational units as stateless operations and ramp them into AWS cloud.
+
+This was a rather polished and elegantly implemented system. Our head trader told me that if the company went under,
+your volatility system is the only thing with some redeemed value.
+
+This chapter is quite short for a year and three quarters' work. But the next chapter would be even shorter if anyone 
+cares.
+
+
 
 
 
