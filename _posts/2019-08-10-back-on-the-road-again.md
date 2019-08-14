@@ -280,7 +280,7 @@ __得到什么__
 另外，这一年多里我的'云'技能长足进展。之前的公司虽说也有"云平台"（这个双引号用得很恰当，这个云系统从头到脚都是内部开发的，
 和外部的商业云不能比，最多是个高级的虚拟机管理器），我只是叉车式地把系统移植到云上。现在这间公司对云的运用更加深入，
 恨不得把整套系统都建立在云端上。
-[我也顺便去考了个 AWS 云计算开发人员资格证](/rants/and/scribbles/2019/07/03/i-passed-aws-cert-developer/)。
+[我也顺便去考了个 AWS 云计算开发人员资格证](/rants_and_scribbles/2019/07/03/i-passed-aws-cert-developer/)。
 
 总结来说，在这间小公司的经历，**多样化了我的知识技能**。这具有非常显性的效果。最近一次工作面试，我对该单位的大领导说，
 我认为我的技能，经验与贵司的需求相当的匹配。那大领导说，呵呵呵，可不咋的，是我挑的你的简历啊，你忘了？你以为是随机的呢？
@@ -671,9 +671,9 @@ Now all loading images in my systems are called ``spiderman_dancing.gif``.
 ## 2
 ----
 In the third quarter of 2017, I went job hunting frenziedly.
-What also went frenzied was the crypto currencies. The bitcoin bubble was at its height, and blockchain start-ups grew like 
+What also went frenzied were the crypto currencies. The Bitcoin bubble was at its all time height, and blockchain start-ups grew like 
 mushrooms. I interviewed with a blockchain firm, which offered a lower salary. The head-hunter's sales pitch went like, 
-oh, blockchain is the most sought after skill in the market now and loads people are taking a pay cut just to get in
+oh, blockchain is the most sought after skill in the market and loads people are taking a pay cut just to get in
 the game blah-blah.
 
 Traumatised by big companies, in this round of job hunting I mainly aimed at small and medium-sized companies, 
@@ -721,7 +721,7 @@ For companies of this size, the level of automation is quite high. From order pl
 all processes are driverless. I participated in almost all of these system implementation. Let me go through one of these
 system that I was most proud of and liked to brag about in job interviews, the volatility model manager.
 
-The volatility model is imperative to option houses,
+The [volatility model](https://www.investopedia.com/articles/stock-analysis/081916/volatility-surface-explained.asp) is imperative to option houses,
 To put it simply, if you look at the volatility model manager as a black box, the input are market price updates and 
 the outputs are the latest volatility curves. With reusability and horizontal and vertical scalability in mind, 
 I extracted the volatility calculation and curve refit code as library dependencies, and injected those into different 
@@ -732,8 +732,46 @@ I also ran the computational units as stateless operations and ramp them into AW
 This was a rather polished and elegantly implemented system. Our head trader told me that if the company went under,
 your volatility system is the only thing with some redeemed value.
 
-This chapter is quite short for a year and three quarters' work. But the next chapter would be even shorter if anyone 
+This chapter is quite short for a year and three quarters' work, and the next chapter would be even shorter if anyone 
 cares.
+
+#### 2.1
+__What I've Achieved__
+
+I had a good honeymoon period in this firm. The firm comes with great mod-con and thrives to build the development 
+environment for developers. No more boring paperwork, my initiatives as a software engineer is greatly released. 
+At the same time, being a small firm, everyone takes ownership of their project. 
+Research and testing of cutting-edge technologies are encouraged. My tech capabilities grew a great deal.
+
+I sit close to the traders and work intimately with them. With fast feedback loop with traders, it was quite 
+satisfying to see your work actually running and making money in the market.
+
+When I first joined the company, I felt that I was a blind man. Straddle, strangle, calendar spread,  
+delta, theta, gamma, rho, was all like Klingon to me. For which reason I got myself a [copy of Natenberg](https://www.amazon.co.uk/Option-Volatility-Pricing-Strategies-Techniques/dp/155738486X) 
+and chewed through it.Now I can give brief explanation the risk exposures of the 
+different options spreads, and won't have to smile and nod when discussing trading strategies with traders.
+I hand coded the Black 76 model and the Stochastic alpha beta rho model，when implementing the Volatility Model project.
+I have learned a lot of business knowledge in this company.
+
+In addition, my 'cloud' skills have progressed over the past year. Though there was "cloud platform" in my previous company
+(this double quote is used properly, this cloud system is developed entirely in-house, not comparable to the external
+ business cloud, at most an advanced virtual machine manager), I was just forklifting the system 
+ to the cloud. This firm embraces cloud very deep and had the vision to build the entire infrastructure on cloud. 
+ [I also took and passed the AWS Cloud Developer Developer Certificate exam](/rants_and_scribbles/2019/07/03/i-passed-aws-cert-developer/).
+
+In summary, **I diversified my knowledge and skills at this firm**. The effect was very apparent.
+In a recent job interview, I told the hiring manager that my skill set matches the role's profile very well.
+And he went, I picked your CV remember? It wasn't random.
+
+All there reasons why I left the previous firm was quite dealt with. I had plan to spent some longer time in this firm
+until I discovered it was not possible. Will elaborate more on that next chapter.
+
+#### 2.2
+__Why I Left__
+
+
+
+
 
 
 
