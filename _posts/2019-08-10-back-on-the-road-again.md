@@ -903,7 +903,7 @@ dominate knowledge acquisition.
 3. Ever since I started to work, all my values are added to the companies I worked for. 
 Every piece of code that I've written, every system that I've built, 
 turned straight into the company's property. I would like to **use my skills outside of my day job**.
-I don't have a clue what to do with this. If you have an idea and like to share, 
+I don't have a clue how to achieve this. If you have an idea and like to share, 
 please leave a message.
 
 Thanks for reading this long post and [here is your potato.](https://qr.ae/TWvmIi)
