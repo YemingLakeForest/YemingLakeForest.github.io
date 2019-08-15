@@ -332,7 +332,7 @@ __重新上路__
 
 多次面试与被面试，我对于‘工作面试’这事有这么几点观察，欢迎各位同志评论指导。
 
-第一，我们大家高估了面试表现与实际工作表现之间的相关性。换句话说，面试技巧与工作技能是相互独立的两种属性。之前我面过俩哥们。
+第一，我们大家**高估了面试表现与实际工作表现之间的相关性**。换句话说，面试技巧与工作技能是相互独立的两种属性。之前我面过俩哥们。
 哥们A面试的时候对答如流，简直一行走的 Java 题库。哥们B就没答得那么溜，而且还有点小个性，面试过程很不流畅。我给的反馈是A优于B。后来我们预算充盈，
 俩哥们都招了。实际工作时，我发现他们的工作表现与面试相反，A按部就班，能完成任务但也仅此而已，当一天和尚敲一天钟。B这哥们除了完成本职工作，
 还能很有批判性地思考，指出流程中不合理的部分，并发挥主观能动性带头做优化。
@@ -340,10 +340,10 @@ __重新上路__
 我每次开始面试的时候，技巧日久生疏，总免不得会‘乱’面几间。后来越来越渐入佳境，‘掌握套路’，面哪中哪。估计不少同志都会有这样的体验。
 真替我最早面那几家公司，跑了大金子，感到不值！
 
-第二，求职与择业，路径依赖性很强。为什么这么说呢？这轮我买方卖方公司都面了不少。我总感觉，卖方投行出身的我，
+第二，**求职与择业，路径依赖性很强**。为什么这么说呢？这轮我买方卖方公司都面了不少。我总感觉，卖方投行出身的我，
 面试投行职位的时候会和面试官交流得更投机。跨行业面试时，我总会感觉我和对方都认为对方怪怪的。不知道你们是否有此感受。
 
-第三点最气人。一朋友和我说过，你在面试时，面试官在前五分钟其实已经无意识地做出决定了。我觉得有点道理。很多时候第一印象，甚至是对你简历的第一印象，
+第三点最气人。一朋友和我说过，你在面试时，**面试官在前五分钟其实已经无意识地做出决定了**。我觉得有点道理。很多时候第一印象，甚至是对你简历的第一印象，
 就决定了这个面试的结果。这次我面了一个量化做市商，面得还挺溜，问题都答出写出绝大部分。就当我心里感觉挺良好的时候，中介告诉我，挂了。
 我给气的，让给回馈。对方说，这位求职者知识水平不错，但是量化做市系统开发经验较少，我们要多花时间把他培养出来。
 
@@ -775,7 +775,7 @@ a US elite systematic trading fund. We are here in London because the CEO was se
 EMEA head, and he kind of put down roots here, with kids sent in schools. The firm is fully funded by the CEO's personal
 wealth. I was quite insecure about my place in the firm learning all these. What happens if our boss quits?
 
-Although, the thing that I felt the most insecure about, was the elusiveness of the vision of the company (whoa!).
+Although, the thing that I felt the most insecure about, was the **elusiveness of the vision of the company (whoa!)**.
 
 As mentioned earlier, *if* the strategy worked, the economic prospects of the company 
 are quite considerable, which was the very reason I was so keen to join the firm in the first place. 
@@ -804,10 +804,66 @@ and you don't really get to drive the boat.
 
 It’s time to get back on the road again.
 
+---
 
+&nbsp;
 
+## 3
+----
+After all these, here we are again. Yes, **time to get back on the road again**.
+At the time of writing this article, your blogger had already submitted my resignation. 
+Of course, I didn't quit without somewhere to go, I am not that dumb. Just after the year end review, I started to look in the market. 
+I re-calibrated my target a little. This time I focused on successful businesses in established firms. And, 
+after a few misses, I once again mastered the interview routine. This time I got 4 offers.
 
+With a still fresh memory, I want to talk about the experience and perception of this round of interviews.
 
+#### 3.0
+__Back on the Road Again__
+
+Having been in either end of the table in numerous job interviews, I abstracted a few points of my thoughts about
+this matter. 
+
+First, we all **overestimated the correlation between interview performance and actual work performance.** 
+In other words, interview skills and work skills are two separate attributes. 
+There was this time I interviewed 2 guys for the same job. Interviewee A was like a walking banking of Java interview 
+questions and passed with flying colours.
+Interviewee B didn't do nearly as good A, and the interview was rather bumpy.
+The feedback I gave was A better than B. And we actually got enough funding to hire them both. In actual work, 
+I found that their work performance is in contrary to the interviews. A can manage all the tasks threw at him, but that's 
+about it. While B, in addition to completing he's own duties, employs critical thinking and 
+point out what were wrong with the process, and take the initiative to take the lead to change them.
+
+In each round of job hunting, my interview skills were rather rusty in the beginning. Through the process my skills would gradually get better and 
+with exponentially growing success rate. I felt bad for those firms I interviewed in the beginning for missing me out.
+
+Secondly, I find **job hunting is very much path dependent**. I interview many firms across buy-side and sell-side.
+Having spent most my career in sell-side, I always feel that I can resonate better with sell-side banks, 
+Not sure if you've felt the same way.
+
+The third point is the most irritating one. A friend told me that during the interview, 
+the **interviewers made up an unconscious decision in the first five minutes**. I tend to agree with this.
+Many times the first impression, even the first impression of your resume, determines the outcome of this interview. 
+That was a time I interviewed with a quantitative market maker, and I felt I did ok. However the recruiter told me that
+it was a no. The feedback was that they thought my I had good knowledge at what I do, 
+but lack experience in quantitative market making and we had to spent time to bring him up to speed.
+
+Screw you mate.
+
+On the contrary, the interview will go smoothly if they had a good impression, even though they find some holes in your knowledge base.
+When I interviewed with Goldman Sachs, I couldn't answer much of the front-end questions. But the feedback was,
+they believed I could pick things up fast and were quite happy with my performance. Strange.
+
+In fact, this is quite understandable. It is called [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). 
+When you established a point of view, you will focus on the facts that support it, while ignoring those facts that reject
+your opinion, forming a bias.
+
+To sum up, I find job interviews are full of randomness, prejudice, and arbitrary. Very unreliable.
+
+#### 3.1
+__Where will the Road Leads__
+
+So, where will the Road Leads?
 
 
 
