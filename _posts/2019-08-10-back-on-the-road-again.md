@@ -408,7 +408,7 @@ Till the third quarter of 2019, I have been in this industry for exactly 7 years
 In the face of the magic number of '7', as well as the second career transition of my life, 
 I will briefly summarise these years of my career. 
 This blog post is mainly written for me, especially for the self 7 years later, or even 
-```while (isAlive) {age += 7;}``` years later. 
+```while (isAlive) {age += 7;}```  years later. 
 If you have wandered in and have a thought for this blog post, please leave a comment.
 
 I changed the style of this blog posts a little. In contrast to other posts on this site, 
@@ -566,7 +566,7 @@ one day. However, to do this I will be shorting volatility. What do I mean, you 
 If I decide to stay, I am betting on things to stay static, the company will not lay off staffs, 
 the business department will not be cut, my network in the firm will still be there, and the market 
 will not shrink. Once these external conditions fade away, my position would be endangered.
-I will become fragile. And I want to be anti-fragile, I have to strengthen the width and depth of my skills, 
+I will become fragile. And I want to be anti-fragile, I have to strengthen the width and depth of my skills 
 and long volatility. 
 
 The slow down of my improvement is largely due to some institutional and philosophical problems of the company. 
@@ -763,7 +763,7 @@ In summary, **I diversified my knowledge and skills at this firm**. The effect w
 In a recent job interview, I told the hiring manager that my skill set matches the role's profile very well.
 And he went, I picked your CV, remember? It wasn't random.
 
-All there reasons why I left the previous firm was quite dealt with. I wanted to spent some longer time in this firm
+All there reasons why I left the previous firm was quite dealt with. I wanted to spend some longer time in this firm
 until I discovered it was not possible. Will elaborate more on that next chapter.
 
 #### 2.2
@@ -872,7 +872,7 @@ We should not underestimate the hidden cost of job changes.
 Excluding the time and effort spent on job interviews, the biggest cost for switching job 
 is that it curbs all the momentum you have built up. These could be  
 business knowledge accumulated, network resources, and seniority (as your boss told you that, in x years you'll be xyz, etc). 
-Most of these will be rebuilt in your in new position. Job changing is like cashing out of momentum. I hope I get to build
+Most of these will be rebuilt in your in the new position. Job changing is like cashing out of momentum. I hope I get to build
 up momentum for a longer time in the next job.
 
 I narrowed down these 4 offers to 2. One is a large mutual fund, technical lead position, 
@@ -903,7 +903,7 @@ dominate knowledge acquisition.
 3. Ever since I started to work, all my values are added to the companies I worked for. 
 Every piece of code that I've written, every system that I've built, 
 turned straight into the company's property. I would like to **use my skills outside of my day job**.
-I don't have a clue how to achieve this. If you have an idea and like to share, 
+I don't have a clue about how to achieve this. If you have an idea and like to share, 
 please leave a message.
 
 Thanks for reading this long post and [here is your potato.](https://qr.ae/TWvmIi)
