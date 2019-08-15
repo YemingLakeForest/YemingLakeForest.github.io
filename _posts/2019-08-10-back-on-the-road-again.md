@@ -865,6 +865,66 @@ __Where will the Road Leads__
 
 So, where will the Road Leads?
 
+Many of you may think that this blogger knows to avoid what he doesn't want, but doesn't know what he really wants. 
+This is not incorrect. Every career moves I took were aiming to solve the paint points, which is rather passive.
+As mentioned above, if conditions permit, I hope that I can continuously work in a same firm.
+We should not underestimate the hidden cost of job changes. 
+Excluding the time and effort spent on job interviews, the biggest cost for switching job 
+is that it curbs all the momentum you have built up. These could be  
+business knowledge accumulated, network resources, and seniority (as your boss told you that, in x years you'll be xyz, etc). 
+Most of these will be rebuilt in your in position. Job changing is like cashing out of momentum. I hope I get to build
+up momentum for a longer time in the next job.
+
+I narrowed down these 4 offers to 2. One is a large mutual fund, technical lead position, 
+but the business area is a bit dull. The other is a top-tier investment bank. 
+Yes, these investment banking are all 'tiered'.
+The investment bank is rebuilding and upgrading its equities trading system top down. 
+It's a 'ten year plan'. A good match to my ambitions. Was a easy decision in the end and I signed the contract with them.
+
+I had good first impression with this investment bank. This of course partially have to do with the banks' prestige.
+Also the whole interview process was refreshingly efficient and smooth. Their HR knew that I had multiple offers and
+had the contract prepared overnight before 4th July. I normally ask for 5-10% more my expected salary, for HR would 
+almost always negotiate it down. And this bank gave a number even higher than what I asked for, with annualised bonus
+at year end. 
+
+Now, at the age of 30, and the end of this post, please allow me to ink down a few vision for my career ahead.
+
+1. **Strengthen the ability to grasp the direction of career development.** 
+As I said earlier, I know very well what I don't like, but I need to strengthen the 'what I want' aspect. 
+After all, calibrating with 'avoidance' is not efficient. 
+How to achieve it? Look at the next one.
+
+2. **Targeted accumulation of knowledge and learning skills**.
+Through the years I had acquired skills in this industry what are fairly priced in the market.
+Although, large portion of these skills are obtained through work and are unconscious and passively 
+accumulated. From now on, I should work on reverse the absorption method and actively set up a framework to 
+dominate knowledge acquisition.
+
+3. Ever since I started to work, all my values are add to the companies I worked for. 
+Every piece of code that I've written, every system that I've built, 
+turned straight into company's property. I would like to flex my skills out side of my day job.
+I don't have a clue what to do with this. If you have an idea and like to share, 
+please leave a message.
+
+Thanks for reading this long post and [here is your potato.](https://qr.ae/TWvmIi)
+
+![Potato](/assets/potato.png)
+
+(The End)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
