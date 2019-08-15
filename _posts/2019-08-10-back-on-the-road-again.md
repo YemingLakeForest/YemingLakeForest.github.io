@@ -769,15 +769,40 @@ until I discovered it was not possible. Will elaborate more on that next chapter
 #### 2.2
 __Why I Left__
 
+Comrades who have worked in small companies, especially startups, should feel that such companies are particularly 
+influenced by the personal style of the founder. The CEO of my company is from the US, formally a senior manager of
+a US elite systematic trading fund. We are here in London because the CEO was sent in by he's previous firm as the
+EMEA head, and he kind of put down roots here, with kids sent in schools. The firm is fully funded by the CEO's personal
+wealth. I was quite insecure about my place in the firm learning all these. What happens if our boss quits?
 
+Although, the thing that I felt the most insecure about, was the elusiveness of the vision of the company (whoa!).
 
+As mentioned earlier, *if* the strategy worked, the economic prospects of the company 
+are quite considerable, which was the very reason I was so keen to join the firm in the first place. 
+As my knowledge of the company's business and systems deepens, this goal seems to be getting farther and farther 
+away from us. Our company actually has a series of strategies that can be profitable on a small scale, 
+but the CEO does not seem interested in these. He has made a name for 
+himself in the first half of his career and has accumulated a net worth enough for several after-lifes. However, 
+people tend to see idea as their valuable asset. When you think of an idea an property, 
+it is difficult to abandon it, even if your idea is like the faint little golden snitch in Quidditch. 
+The game of chasing a small golden snitch could be interesting, but that would certainly hurt the morale 
+of the team. No one would chase the snitch for you with empty tummies.
 
+In the performance review at beginning of the 2019 fiscal year, I heard the classic one. 
+*You perform well in the past year, however the firm didn't do so well so blah-blah*
+Yup, I got a small bonus with no pay rise.
 
+Utilitarian I believe that in the first ten years of your career, you pay rise must beat the inflation. 
+The loss for not getting pay rise this early in your career, even if it is calculated as the net present value, 
+is considerable. Not to mention the impact on compounded pay rises in the future.
 
+I admire our CEO for his persistence and constance pursue for the goal and vision of his. Which, sadly, could be
+a double edged sword.
 
+My experience in this firm, to put it simply, is like sitting in a small boat, floating in the sea, 
+and you don't really get to drive the boat.
 
-
-
+It’s time to get back on the road again.
 
 
 
