@@ -769,7 +769,7 @@ until I discovered it was not possible. Will elaborate more on that next chapter
 #### 2.2
 __Why I Left__
 
-Comrades who have worked in small companies, especially startups, should feel that such companies are particularly 
+Comrades who have worked in small companies, especially start-ups, should feel that such companies are particularly 
 influenced by the personal style of the founder. The CEO of my company is from the US, formally a senior manager of
 a US elite systematic trading fund. We are here in London because the CEO was sent in by he's previous firm as the
 EMEA head, and he kind of put down roots here, with kids sent in schools. The firm is fully funded by the CEO's personal
