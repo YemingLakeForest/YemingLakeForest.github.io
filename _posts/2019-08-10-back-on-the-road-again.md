@@ -163,12 +163,12 @@ REST 放送的内容真的安全？全公司的系统都访问你的 API，你�
 
 第二个故事也很好玩儿。
 
-有一天，一个内部电话打了进来，对方是一位操着东欧口音的阿姨（估计是布达佩斯'卓越中心'的）。她说，我们监察到，你的系统有通过 ftp 传输数据。
-你给我个 deadline（死线），什么时候把 ftp 管道移植到 sftp 上呢？我心里一堆问号，这又搞个什么大龙凤？后来了解到，是日本分公司的某部门，
-用 ftp 传输泄漏了数据。上头很生气，决定又来一次一刀切，把所有 ftp 传输管道都给毙掉。
+有一天，一个内部电话打了进来，对方是一位操着东欧口音的阿姨（估计是布达佩斯'卓越中心'的）。她说，我们监察到，你的系统有通过 FTP 传输数据。
+你给我个 deadline（死线），什么时候把 FTP 管道移植到 sftp 上呢？我心里一堆问号，这又搞个什么大龙凤？后来了解到，是日本分公司的某部门，
+用 FTP 传输泄漏了数据。上头很生气，决定又来一次一刀切，把所有 FTP 传输管道都给毙掉。
 
 我心里好笑极了。诶，我是在访问 CME（芝商所）的公开交易数据哎，为什么要用 sftp ？阿姨不知道听懂了没有，接着问，那你什么时候能解决呢？
-我多精一人啊，当然不会和她进行降维交流。我后来和她说，CME 数据目前只提供 ftp 访问方式，如果你必须要做 sftp，我可以和他们联系，
+我多精一人啊，当然不会和她进行降维交流。我后来和她说，CME 数据目前只提供 FTP 访问方式，如果你必须要做 sftp，我可以和他们联系，
 问个移植到 sftp 的要价，你看到时这笔支出应该记在哪个部门的帐上呢？
 
 阿姨后来就没再烦我了。
@@ -407,11 +407,11 @@ __路在何方__
 Till the third quarter of 2019, I have been in this industry for exactly 7 years. 
 In the face of the magic number of '7', as well as the second career transition of my life, 
 I will briefly summarise these years of my career. 
-This blog post is mainly written for myself, especially for the self 7 years later, or even 
+This blog post is mainly written for me, especially for the self 7 years later, or even 
 ```while (isAlive) {age += 7;}``` years later. 
-If have wandered in and have a thought for this blog post, please leave a comment.
+If you have wandered in and have a thought for this blog post, please leave a comment.
 
-I changed the style of this blog posts a little. In contrast to other posts in this site, 
+I changed the style of this blog posts a little. In contrast to other posts on this site, 
 This article was written in Chinese. 
 The reason for choosing Chinese is that when I talk about 'things', I like to express myself in my work language (English). 
 But when it comes to 'people', and this 'person' is himself, it is best to express it in a mother tongue. 
@@ -423,11 +423,11 @@ This is a rather long text, take your time and enjoy.
 
 ## 0
 ----
-Since graduating from the Imperial Master's program in 2011, I was just confused about future as many other grads. 
+Since graduating from the Imperial Master's program in 2011, I was just confused about the future as many other grads. 
 That year, the Conservative Party just came to power and tightened its immigration policy. 
 The then Home Secretary, Theresa May, cancelled the Post Study Work visa established by the previous Labour government. 
 This means that I don't have the luxury of two years to look for a job in London.  
-I haven't got long to be confused. I frenziedly applied for the graduates jobs of London's major investment banks. 
+I haven't got long to be confused. I frenziedly applied for the graduate jobs of London's major investment banks. 
 After a few misses, I gradually mastered the routine of the investment bank interviews, 
 and subsequently received the offers of three banks.
 
@@ -438,13 +438,13 @@ I spent 5 good years of my career in this place
 
 ## 1
 ----
-In the fall of 2012, I joined the the bank;s Global Markets Technology as a graduate. 
-Simply put, this is the technology arm of its investment banking department. In Chinese context, 
-this type of role is often referred as 'financial code farmer'.
+In the fall of 2012, I joined the bank's Global Markets Technology as a graduate. 
+Simply put, this is the technology arm of its investment banking department. In the Chinese context, 
+this type of role is often referred to as 'financial code farmer'.
 
 I do not agree nor like the description of 'code farmer'. 
-The word 'farming' has the subtle meaning of labor-intensive work (no offence to agricultural professionals). 
-The essence of software engineers is precisely to eliminate labor-intensive work. 
+The word 'farming' has the subtle meaning of labour-intensive work (no offence to agricultural professionals). 
+The essence of software engineers is precisely to eliminate labour-intensive work. 
 As a software engineer, if you find yourself 'farming' a lot, you probably are in the wrong trade.
 
 Joined as a grad in 2012, I spent a little more than 5 years in the bank.
@@ -455,9 +455,9 @@ I will sum up my joys and sorrows in this company in the aspect of **what I've d
 #### 1·0
 __What I've Done__
 
-This is actually quite difficult to sum up.
+This is quite difficult to summarise.
 
-Difficult, of course, is not because you do not know what you have done, otherwise you would just copy and paste the CV.
+Difficult, of course, is not because you do not know what you have done, otherwise, you would just copy and paste the CV.
 The difficulty lies in how to extract some of the legacies of sustainable and systematic contributions in the dizzying 
 array of projects that have been done.
 
@@ -465,26 +465,26 @@ I spent most of my time in the bank within the Futures Clearing and Collateral M
 this is how the sign above my head reads) technology department, serving the Futures eTrading and Risk business.
 
 When I first joined the team, jeez, the entire tech stack was a big wild west.
-Continuous integration was next to non-exist, one click deployment was not there, 
+Continuous integration was next to non-exist, one-click deployment was not there, 
 the code repository was still SVN. I remember the first time I watched my colleagues do the deployment. 
 I was watching him, clicked open Windows Remote Desktop, logged into the production environment, 
 and manually pulled the local maven-built zip package (that's right) to the desktop of the production environment.
 He then manually unzips the zip and pulls the sub-files one by one into the deployment directory. 
 I was shocked out of the roof.
 
-It certainly can't go on like this. During the my years in the team, I continued to improve the SDLC maturity of the 
+It certainly can't go on like this. During my years in the team, I continued to improve the SDLC maturity of the 
 software system under the premise of ensuring the progress of projects. I moved the code repository from SVN to the 
-internally hosted git server and then to the Bitbucket shared by the entire bank. Initially our software was deployed 
+internally hosted git server and then to the Bitbucket shared by the entire bank. Initially, our software was deployed 
 directly on bare metal servers, and I moved them to virtual machines. And then they were all migrated to the firm's internal
 cloud. I have successively established systems such as continuous integration, automatic deployment, automatic testing, 
 static code quality analysis, and code quality gates. Also, I standardized the technology structure and build methods for 
 projects across different business areas. This allows future generations of engineers to join to develop on our systems 
-with ease, while ensuring that the quality of the software produced within this framework is relatively high.
+with ease while ensuring that the quality of the software produced within this framework is relatively high.
 
 In a nutshell, the most important legacy I left was that I injected the **sustainable, horizontally scalable software development
 DNA into my systems**, and spread it to other sisters in the wider organisation to some extent. 
-This company was quite fund of scorecarding systems based on their software development maturity, and my system always appeared 
-on the top lists within the department. This kind of made every one look good.
+This company was quite fond of scorecarding systems based on their software development maturity, and my system always appeared 
+on the top lists within the department. This kind of made everyone looks good.
 My direct manager back then even used it as one of his 'achievements' to justify his promotion. I laughed my head off.
 
 As for the business, my legacy was to extend a software system that serves several internal employees to a software 
@@ -492,23 +492,23 @@ service that can meet the needs of numerous internal and external customers. The
 desktops of several risk managers, tracking and monitoring our clients' maintenance margin requirements. 
 By the time I left, the system has been reversed to a service that satisfies real-time ad hoc margin calculations, 
 and the service is exposed on the portal site for use by external clients. Because of the delivery of 
-this high profile project, the company won the business of a government backed investment institution in Singapore. 
-This was quite an achievement back then and put a smile in many's faces. Although in the investment banking environment, 
-the technical department only gets a small slice of the cake, but as a relatively junior guy delivering all these, 
+this high profile project, the company won the business of a government-backed investment institution in Singapore. 
+This was quite an achievement back then and put a smile on many's faces. Although in the investment banking environment, 
+the technical department only gets a small slice of the cake, as a relatively junior guy delivering all these, 
 I was quite well rewarded. And we will now smoothly transition to the next chapter, what I've got.
 
 #### 1·1
 __What I've Achieved__
 
-Bai Yansong once said that, [failure is not the mother of success, rather, victory is the mother of success](http://news.ifeng.com/a/20160907/49929707_0.shtml)). 
-I deeply agree with this. Over the years I have witnessed first hand and participated in the whole progress of 
-software projects from scratch. Learn how to turn the ideas and ideas of customers and traders into a robust, scalable systems. 
+Bai Yansong once said that [failure is not the mother of success, rather, victory is the mother of success](http://news.ifeng.com/a/20160907/49929707_0.shtml)). 
+I deeply agree with this. Over the years I have witnessed and participated in the whole progress of 
+software projects from scratch. Learn how to turn the ideas and ideas of customers and traders into a robust, scalable system. 
 The successful delivery of these high profile projects has built up my confidence in this industry. 
-I participated in these projects as project manager, personnel supervisor, and technical backbone, 
-as well as getting my hands dirty to lead charges up front. This mentality gave me confidence to take on any complex 
+I participated in these projects as a project manager, personnel supervisor, and technical backbone, 
+as well as getting my hands dirty to lead charges upfront. This mentality gave me the confidence to take on any complex 
 development projects and challenges.
 
-Apart from some bureaucratic matters, I rarely needed to report to my direct manager. I directly engage to clients and 
+Apart from some bureaucratic matters, I rarely needed to report to my direct manager. I directly engage with clients and 
 business owners. An autonomous environment is also an important factor that propelled my growth.
 
 Through these years I rose up the corporate ladder pretty quickly and grasped all possible opportunities for promotion. 
@@ -517,18 +517,18 @@ More importantly, I had a good nurturing boss, to whom I felt grateful, even til
 
 When I was a team lead, my subordinates were scattered around the world. Why is this so? 
 Bulge bracket banks had this practice of setting up "centres of excellence" (COE). So what the hell are these?
-The COE is the politically correct term for a cheap locations. These COEs are offices established by the firm in 
+The COE is the politically correct term for cheap locations. These COEs are offices established by the firm in 
 third world countries to cut costs.
 
 I had a team member in the COE of Belfast, who later transferred a different team in the bank.
-Before he left, he told me that he would well remember what I've taught him all these time. My ego was much boosted.
+Before he left, he told me that he would well remember what I've taught him all these times. My ego was much boosted.
 
 To sum up, the most import thing I achieved is growth. To add a bit more, I have achieved the 'title'.
-[Some argues that titles are all non-substantial](https://coolshell.cn/articles/10688.html)). 
-Yet very few would actually be willing to give their titles away.
+[Some argue that titles are all non-substantial](https://coolshell.cn/articles/10688.html)). 
+Yet very few would be willing to give their titles away.
 Titles themselves do not carry practical significance, no one is going to address you as Mr VP. 
 But your status in the industry (gravitas) backed by the title is real. Each major bank has a strict salary band 
-for each title. Having achieve certain title it is also beneficial in job hunting. 
+for each title. Having achieved a certain title it is also beneficial in job hunting. 
 The new company will always have to match you the corresponding title you have obtained.
 
 So why move? You may ask. Sit tight, here comes the roast.
@@ -539,14 +539,14 @@ __What I Left__
 Finally. I waited too long to write this.
 
 Why are you doing this? People around me, family and wife, were confused about my decision to quit. 
-In fact, during the final years in the bank, my mental state was progressively worsen. I felt pain, suffering and grief 
+In fact, during the final years in the bank, my mental state was progressively worsening. I felt pain, suffering and grief 
 (ok I exaggerated a little). One thing was certain. In the last year of my tenure, I had made up a firm mind to leave.
 
 3 main factors.
 
 First, **that was the optimal time to move**. As stated I made VP that year. In banks, the title of VP (Vice President) 
 is generally an achievable goal. To get promoted to Director, though, needs years of glooming.
-I didn't want to spend all of my career there. Furthermore, the UK's immigration policy allows foreigners who have 
+I didn't want to spend all of my careers there. Furthermore, the UK's immigration policy allows foreigners who have 
 worked continuously for five years to apply for permanent residence, then employment won't be restricted. 
 Now that I have done my sentences I was naturally encouraged to plan for a move.
 
@@ -558,13 +558,13 @@ my salary just became the lower bound of the statistics for Vice President in th
 Tough!
 
 Secondly, my technical skills and business knowledge have been improving much slower during the last two years. 
-The tasks handed over to me are becoming more and more homogeneous, and I am became increasingly insecure.
-My skills will become more and more irrelevant to market. **It's time to diversify my experiences and skills.**
+The tasks handed over to me are becoming more and more homogeneous, and I am becoming increasingly insecure.
+My skills will become more and more irrelevant to the market. **It's time to diversify my experiences and skills.**
 
-Given my position and the connections I accumulated, is not impossible for me to rise up the rank and make Director
+Given my position and the connections that I accumulated, is not impossible for me to rise the rank and make Director
 one day. However, to do this I will be shorting volatility. What do I mean, you ask.
 If I decide to stay, I am betting on things to stay static, the company will not lay off staffs, 
-the business department will not be cut, the my network in the firm will still be there, and the market 
+the business department will not be cut, my network in the firm will still be there, and the market 
 will not shrink. Once these external conditions fade away, my position would be endangered.
 I will become fragile. And I want to be anti-fragile, I have to strengthen the width and depth of my skills, 
 and long volatility. 
@@ -577,12 +577,12 @@ Chen Hao, tent to solve problems through management rather than technology](http
 This is the very point I disagree with the firm and despite. It is also the fundamental cause of my grievances
 in my final days in the company.
 
-As a junior team lead in the firm I was buried with all sorts of ruthless bureaucratic formalism work. 
+As a junior team lead in the firm, I was buried with all sorts of ruthless bureaucratic formalism work. 
 A variety of weird spreadsheets to be filled; at least two days of paperwork before each deployment, 
 with eight approvals to chase; there's always someone from some part of the company you never heard up jumping up 
-out of no where to chase you for paperwork. Every Wednesday, you receive a scorecard on paperwork completion cc'd to all big cheeses,
+out of nowhere to chase you for paperwork. Every Wednesday, you receive a scorecard on paperwork completion cc'd to all big cheeses,
 and risk of being in their 'naughty list'. I lost sleep on dump things as such.
-In retrospect, it was a quite a feat that I could handle so these bureaucracy while ensuring the projects' delivery.
+In retrospect, it was quite a feat that I could handle so these bureaucracies while ensuring the projects' delivery.
 
 Some would say that this is a common problem for big firms. If you can't adapt to it, change it,
 which point I agree with in principle. Well, I got three stories to tell, please hear me out.
@@ -590,44 +590,44 @@ which point I agree with in principle. Well, I got three stories to tell, please
 The first story was about the bank's management of password files. 
 Every year, the company goes through a technology audit by KPMG to assess the health of the software system. 
 Um, well, it's KPMG. It didn't feel right to get audited by some lesser firms in terms of tech.
-Of course, external auditing is always necessary, and they did found some problems. One of the themis that some of 
+Of course, external auditing is always necessary, and they did find some problems. One of them is that some of 
 the system's passwords stored naked in files.
  
 This problem was not a real problem. Some people think that the bare password will be used by malicious 
-programmers. This view is dumb, and if the programmer needs it, there are countless ways break the systems. 
+programmers. This view is dumb, and if the programmer needs it, there are countless ways to break the systems. 
 Some would think that this would make it easier for external attacks. Another stupid view, now that they are in your
-intranet, what make you think the hackers would need your passwords?
+intranet, what makes you think the hackers would need your passwords?
 
 Compliance did not necessary shared the same view. Compliance made a panic move to on-board a password management system.
 Now passwords were not scattered all over the place. To set passwords, you send 
-someone to log in to our system and type in the password, then forget it (that's right). Get your password in real time by 
-accessing a REST API at the start of your system. Hearing this password thing, I face palmed.
+someone to log in to our system and type in the password, then forget it (that's right). Get your password in real-time by 
+accessing a REST API at the start of your system. Hearing this password thing, I facepalmed.
 
 ![Face Palm](/assets/face-palm.jpg)
 
 This is masturbation, to make you feel better, and the actual effect is not there at all. 
-Do you really think that set and forget is feasible? Is REST content really safe? When the whole bank's systems access
-your API, are you sure you won't be denial of access (DoS)?
+Do you think that set and forget is feasible? Is REST content safe? When the whole bank's systems access
+your API, are you sure you won't be denial-of-access'd (DoS'd)?
 
-Compliance has set a dead line, stipulating that all software systems company-wide should be on-board in time. 
+Compliance has set a deadline, stipulating that all software systems company-wide should be on-board in time. 
 There were some pioneering teams to use this system. Let's say disappointed was an understatement. The anticipated DoS
-happened and they could not access password in production environment. And the password system was put on ice.
+happened and they could not access password in the production environment. And the password system was put on ice.
 
 There are many ways to manage passwords, the best being no password. No password does not mean there is no authentication, 
 there are many ways to implement system authentication without passwords. When the firm tried to solve problems through 
-management methods rather than technology, and laymen to run the effort with one-size-fits-all approach, failure is 
+management methods rather than technology, and laymen to run the effort with a one-size-fits-all approach, failure is 
 inevitable.
 
 The second story was also a good one.
 
-So I got phoned up one day, it was a lady with Eastern European accent.
+So I got phoned up one day, it was a lady with an Eastern European accent.
 (probably from the Budapest Center of Excellence). She said that they found that our systems had been transferring data 
-via ftp. And she asked a deadline from me to port all ftp pipelines to sftp. 
-Later I learned that it was a department of the Japanese branch that leaked data with ftp transmission. 
-Some big cheeses were very crossed and decided to slash all the ftp transmission pipes.
+via ftp. And she asked a deadline from me to port all FTP pipelines to SFTP. 
+Later I learned that it was a department of the Japanese branch that leaked data with FTP transmission. 
+Some big cheeses were very crossed and decided to slash all the FTP transmission pipes.
 
 I told her that I am visiting (CME Group) public data, why use sftp? 
-She didn't seemed to have got the gist and asked when can I resolve this. I later told her that CME data currently only provides ftp access. 
+She didn't seem to have got the gist and asked when can I resolve this. I later told her that CME data currently only provides FTP access. 
 If you have to do sftp, I can contact them, ask for the asking price for porting to sftp. So which department should 
 I bill this on?
 
@@ -636,17 +636,17 @@ The lady did not bother me any more.
 There is also a third story, one of the last few straws that crushed the camel.
 
 As mentioned earlier, it is necessary to do a few days of paperwork before each system deployment. This includes 
-filling out a dozen pages of release plan forms. Ain't nobody got time for that. I had one of my guys to write a 
+filling out a dozen pages of release plan forms. Ain't nobody got time for that. I had one of my guys to write an 
 automatic form filling system with Selenium WebDriver.
 After a few days of fun, we were told that this automatic filling system could not be used anymore. 
 The reason is that the news reached the ears of the release management department
 (yes, there is such a department, I always think that these departments are job creation schemes). 
-They said you guys can't just by pass the software deployment process.
+They said you guys can't just bypass the software deployment process.
 
 ![Face Palm](/assets/face-palm.jpg)
 
 In all fairness, this bank is indeed a great company. I met many people who are outstanding
-in their own respective fields. There is a saying inside the company – we are a technology firm with a banking licence. 
+in their respective fields. There is a saying inside the company – we are a technology firm with a banking licence. 
 I don't think it lived up to it.
 
 You can probably see by now, I can't win this thing. If you can't choose to result of battle, you can at least choose the battlefield. 
@@ -671,7 +671,7 @@ Now all loading images in my systems are called ``spiderman_dancing.gif``.
 ## 2
 ----
 In the third quarter of 2017, I went job hunting frenziedly.
-What also went frenzied were the crypto currencies. The Bitcoin bubble was at its all time height, and blockchain start-ups grew like 
+What also went frenzied were the cryptocurrencies. The Bitcoin bubble was at its all-time height, and blockchain start-ups grew like 
 mushrooms. I interviewed with a blockchain firm, which offered a lower salary. The head-hunter's sales pitch went like, 
 oh, blockchain is the most sought after skill in the market and loads people are taking a pay cut just to get in
 the game blah-blah.
@@ -710,27 +710,27 @@ This is where all the fun starts. So you are a declining product, why not go sho
 firm is to capture time value loss of options with smooth continuous hedging. The business works *if* the theta captured
 is higher than your hedge cost.
 
-See how I italic this *if*. Now this is a big *if*. How on earth are you guys going to achieve that.
+See how I italic this *if*. Now, this is a big *if*. How on earth are you guys going to achieve that?
 
-You may have noticed that the company is mainly made up of technologists. In fact, the entire company is technology-led, 
-and traders and quants all code themselves. In order to achieve the company's ambitious goals, 
+You may have noticed that the company is mainly made up of technologists. The entire company is technology-led, 
+and traders and quants all code themselves. To achieve the company's ambitious goals, 
 the CEO's vision is to implement trading strategies faster and more economically through the use of technology, 
 automation, and horizontal systems. And my work in this firm pretty much aligns with this vision.
 
 For companies of this size, the level of automation is quite high. From order placement to allocation and clearing, 
-all processes are driverless. I participated in almost all of these system implementation. Let me go through one of these
-system that I was most proud of and liked to brag about in job interviews, the volatility model manager.
+all processes are driverless. I participated in almost all of these system implementations. Let me go through one of these
+systems that I was most proud of and liked to brag about in job interviews, the volatility model manager.
 
 The [volatility model](https://www.investopedia.com/articles/stock-analysis/081916/volatility-surface-explained.asp) is imperative to option houses,
-To put it simply, if you look at the volatility model manager as a black box, the input are market price updates and 
+To put it simply if you look at the volatility model manager as a black box, the input is market price updates and 
 the outputs are the latest volatility curves. With reusability and horizontal and vertical scalability in mind, 
 I extracted the volatility calculation and curve refit code as library dependencies, and injected those into different 
 business services. The system is capable of refitting either market price or settlement prices. I can refit continuously
 or handle ad-hoc calculation request.
-I also ran the computational units as stateless operations and ramp them into AWS cloud.
+I also ran the computational units as stateless operations and ramp them into the AWS cloud.
 
 This was a rather polished and elegantly implemented system. Our head trader told me that if the company went under,
-your volatility system is the only thing with some redeemed value.
+your volatility system is the only thing with some redeeming value.
 
 This chapter is quite short for a year and three quarters' work, and the next chapter would be even shorter if anyone 
 cares.
@@ -743,27 +743,27 @@ environment for developers. No more boring paperwork, my initiatives as a softwa
 At the same time, being a small firm, everyone takes ownership of their project. 
 Research and testing of cutting-edge technologies are encouraged. My tech capabilities grew a great deal.
 
-I sit close to the traders and work intimately with them. With fast feedback loop with traders, it was quite 
-satisfying to see your work actually running and making money in the market.
+I sit close to the traders and work intimately with them. With a fast feedback loop with traders, it was quite 
+satisfying to see your work running and making money in the market.
 
 When I first joined the company, I felt that I was a blind man. Straddle, strangle, calendar spread,  
-delta, theta, gamma, rho, was all like Klingon to me. For which reason I got myself a [copy of Natenberg](https://www.amazon.co.uk/Option-Volatility-Pricing-Strategies-Techniques/dp/155738486X) 
-and chewed through it.Now I can give brief explanation the risk exposures of the 
+delta, theta, gamma, rho, was all like Klingon to me. For which reason, I got myself a [copy of Natenberg](https://www.amazon.co.uk/Option-Volatility-Pricing-Strategies-Techniques/dp/155738486X) 
+and chewed through it. Now I can give a brief explanation on the risk exposures of the 
 different options spreads, and won't have to smile and nod when discussing trading strategies with traders.
-I hand coded the Black 76 model and the Stochastic alpha beta rho model，when implementing the Volatility Model project.
+I hand-coded the Black 76 model and the Stochastic alpha beta rho model，when implementing the Volatility Model project.
 I have learned a lot of business knowledge in this company.
 
-In addition, my 'cloud' skills have progressed over the past year. Though there was "cloud platform" in my previous company
-(this double quote is used properly, this cloud system is developed entirely in-house, not comparable to the external
+Also, my 'cloud' skills have progressed over the past year. Though there was "cloud platform" in my previous company
+(this double-quote is used properly, this cloud system is developed entirely in-house, not comparable to the external
  business cloud, at most an advanced virtual machine manager), I was just forklifting the system 
- to the cloud. This firm embraces cloud very deep and had the vision to build the entire infrastructure on cloud. 
+ to the cloud. This firm embraces cloud very deep and had the vision to build the entire infrastructure on the cloud. 
  [I also took and passed the AWS Cloud Developer Developer Certificate exam](/rants_and_scribbles/2019/07/03/i-passed-aws-cert-developer/).
 
 In summary, **I diversified my knowledge and skills at this firm**. The effect was very apparent.
 In a recent job interview, I told the hiring manager that my skill set matches the role's profile very well.
-And he went, I picked your CV remember? It wasn't random.
+And he went, I picked your CV, remember? It wasn't random.
 
-All there reasons why I left the previous firm was quite dealt with. I had plan to spent some longer time in this firm
+All there reasons why I left the previous firm was quite dealt with. I wanted to spent some longer time in this firm
 until I discovered it was not possible. Will elaborate more on that next chapter.
 
 #### 2.2
@@ -771,7 +771,7 @@ __Why I Left__
 
 Comrades who have worked in small companies, especially start-ups, should feel that such companies are particularly 
 influenced by the personal style of the founder. The CEO of my company is from the US, formally a senior manager of
-a US elite systematic trading fund. We are here in London because the CEO was sent in by he's previous firm as the
+a US elite systematic trading fund. We are here in London because the CEO was sent in by his previous firm as the
 EMEA head, and he kind of put down roots here, with kids sent in schools. The firm is fully funded by the CEO's personal
 wealth. I was quite insecure about my place in the firm learning all these. What happens if our boss quits?
 
@@ -780,27 +780,27 @@ Although, the thing that I felt the most insecure about, was the **elusiveness o
 As mentioned earlier, *if* the strategy worked, the economic prospects of the company 
 are quite considerable, which was the very reason I was so keen to join the firm in the first place. 
 As my knowledge of the company's business and systems deepens, this goal seems to be getting farther and farther 
-away from us. Our company actually has a series of strategies that can be profitable on a small scale, 
+away from us. Our company has a series of strategies that can be profitable on a small scale, 
 but the CEO does not seem interested in these. He has made a name for 
-himself in the first half of his career and has accumulated a net worth enough for several after-lifes. However, 
-people tend to see idea as their valuable asset. When you think of an idea an property, 
+himself in the first half of his career and has accumulated a net worth enough for several after-life. However, 
+people tend to see ideas as their valuable asset. When you think of an idea a property, 
 it is difficult to abandon it, even if your idea is like the faint little golden snitch in Quidditch. 
 The game of chasing a small golden snitch could be interesting, but that would certainly hurt the morale 
 of the team. No one would chase the snitch for you with empty tummies.
 
-In the performance review at beginning of the 2019 fiscal year, I heard the classic one. 
-*You perform well in the past year, however the firm didn't do so well so blah-blah*
+In the performance review at the beginning of the 2019 fiscal year, I heard the classic one. 
+*You perform well in the past year, however, the firm didn't do so well so blah-blah*
 Yup, I got a small bonus with no pay rise.
 
 Utilitarian I believe that in the first ten years of your career, you pay rise must beat the inflation. 
-The loss for not getting pay rise this early in your career, even if it is calculated as the net present value, 
+The loss for not getting a pay rise this early in your career, even if it is calculated as the net present value, 
 is considerable. Not to mention the impact on compounded pay rises in the future.
 
-I admire our CEO for his persistence and constance pursue for the goal and vision of his. Which, sadly, could be
-a double edged sword.
+I admire our CEO for his persistence and constantly pursue the goal and vision of his. Which, sadly, could be
+a double-edged sword.
 
 My experience in this firm, to put it simply, is like sitting in a small boat, floating in the sea, 
-and you don't really get to drive the boat.
+and you don't get to drive the boat.
 
 It’s time to get back on the road again.
 
@@ -810,9 +810,9 @@ It’s time to get back on the road again.
 
 ## 3
 ----
-After all these, here we are again. Yes, **time to get back on the road again**.
+After all this, here we are again. Yes, **time to get back on the road again**.
 At the time of writing this article, your blogger had already submitted my resignation. 
-Of course, I didn't quit without somewhere to go, I am not that dumb. Just after the year end review, I started to look in the market. 
+Of course, I didn't quit without somewhere to go, I am not that dumb. Just after the year-end review, I started to look in the market. 
 I re-calibrated my target a little. This time I focused on successful businesses in established firms. And, 
 after a few misses, I once again mastered the interview routine. This time I got 4 offers.
 
@@ -821,32 +821,32 @@ With a still fresh memory, I want to talk about the experience and perception of
 #### 3.0
 __Back on the Road Again__
 
-Having been in either end of the table in numerous job interviews, I abstracted a few points of my thoughts about
+Having been at either end of the table in numerous job interviews, I abstracted a few points of my thoughts about
 this matter. 
 
 First, we all **overestimated the correlation between interview performance and actual work performance.** 
 In other words, interview skills and work skills are two separate attributes. 
-There was this time I interviewed 2 guys for the same job. Interviewee A was like a walking banking of Java interview 
+There was this time I interviewed 2 guys for the same job. Interviewee A was like a walking bank of Java interview 
 questions and passed with flying colours.
 Interviewee B didn't do nearly as good A, and the interview was rather bumpy.
-The feedback I gave was A better than B. And we actually got enough funding to hire them both. In actual work, 
+The feedback I gave was A better than B. And we got enough funding to hire them both. In actual work, 
 I found that their work performance is in contrary to the interviews. A can manage all the tasks threw at him, but that's 
-about it. While B, in addition to completing he's own duties, employs critical thinking and 
-point out what were wrong with the process, and take the initiative to take the lead to change them.
+about it. While B, in addition to completing he's duties, employs critical thinking and 
+point out what was wrong with the process, and take the initiative to take the lead to change them.
 
-In each round of job hunting, my interview skills were rather rusty in the beginning. Through the process my skills would gradually get better and 
-with exponentially growing success rate. I felt bad for those firms I interviewed in the beginning for missing me out.
+In each round of job hunting, my interview skills were rather rusty in the beginning. Through the process, my skills would gradually get better and 
+with exponentially growing success rate. I felt bad for those firms I interviewed at the beginning for missing me out.
 
-Secondly, I find **job hunting is very much path dependent**. I interview many firms across buy-side and sell-side.
-Having spent most my career in sell-side, I always feel that I can resonate better with sell-side banks, 
+Secondly, I find **job hunting is very much path-dependent**. I interview many firms across buy-side and sell-side.
+Having spent most of my career in sell-side, I always feel that I can resonate better with sell-side banks, 
 Not sure if you've felt the same way.
 
 The third point is the most irritating one. A friend told me that during the interview, 
 the **interviewers made up an unconscious decision in the first five minutes**. I tend to agree with this.
 Many times the first impression, even the first impression of your resume, determines the outcome of this interview. 
-That was a time I interviewed with a quantitative market maker, and I felt I did ok. However the recruiter told me that
-it was a no. The feedback was that they thought my I had good knowledge at what I do, 
-but lack experience in quantitative market making and we had to spent time to bring him up to speed.
+That was a time I interviewed with a quantitative market maker, and I felt I did ok. However, the recruiter told me that
+it was a no from them. The feedback was that they thought my I had a good knowledge at what I do, 
+but lack experience in quantitative market-making and we had to spent time to bring him up to speed.
 
 Screw you mate.
 
@@ -854,38 +854,38 @@ On the contrary, the interview will go smoothly if they had a good impression, e
 When I interviewed with Goldman Sachs, I couldn't answer much of the front-end questions. But the feedback was,
 they believed I could pick things up fast and were quite happy with my performance. Strange.
 
-In fact, this is quite understandable. It is called [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). 
+This is quite understandable. It is called [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). 
 When you established a point of view, you will focus on the facts that support it, while ignoring those facts that reject
 your opinion, forming a bias.
 
 To sum up, I find job interviews are full of randomness, prejudice, and arbitrary. Very unreliable.
 
 #### 3.1
-__Where will the Road Leads__
+__Where will the Road Lead__
 
-So, where will the Road Leads?
+So, where will the road lead?
 
-Many of you may think that this blogger knows to avoid what he doesn't want, but doesn't know what he really wants. 
-This is not incorrect. Every career moves I took were aiming to solve the paint points, which is rather passive.
-As mentioned above, if conditions permit, I hope that I can continuously work in a same firm.
+Many of you may think that this blogger knows to avoid what he doesn't want, but doesn't know what he wants. 
+This is not incorrect. Every career moves I took were aiming to solve the pain points, which is rather passive.
+As mentioned above, if conditions permit, I hope that I can continuously work in the same firm.
 We should not underestimate the hidden cost of job changes. 
 Excluding the time and effort spent on job interviews, the biggest cost for switching job 
 is that it curbs all the momentum you have built up. These could be  
 business knowledge accumulated, network resources, and seniority (as your boss told you that, in x years you'll be xyz, etc). 
-Most of these will be rebuilt in your in position. Job changing is like cashing out of momentum. I hope I get to build
+Most of these will be rebuilt in your in new position. Job changing is like cashing out of momentum. I hope I get to build
 up momentum for a longer time in the next job.
 
 I narrowed down these 4 offers to 2. One is a large mutual fund, technical lead position, 
 but the business area is a bit dull. The other is a top-tier investment bank. 
 Yes, these investment banking are all 'tiered'.
-The investment bank is rebuilding and upgrading its equities trading system top down. 
-It's a 'ten year plan'. A good match to my ambitions. Was a easy decision in the end and I signed the contract with them.
+The investment bank is rebuilding and upgrading its equities trading system top-down. 
+It's a 'ten-year plan'. A good match for my ambitions. Was an easy decision in the end and I signed the contract with them.
 
-I had good first impression with this investment bank. This of course partially have to do with the banks' prestige.
-Also the whole interview process was refreshingly efficient and smooth. Their HR knew that I had multiple offers and
+I had a good first impression of this investment bank. This of course partially has to do with the banks' prestige.
+Also, the whole interview process was refreshingly efficient and smooth. Their HR knew that I had multiple offers and
 had the contract prepared overnight before 4th July. I normally ask for 5-10% more my expected salary, for HR would 
-almost always negotiate it down. And this bank gave a number even higher than what I asked for, with annualised bonus
-at year end. 
+almost always negotiate it down. And this bank gave a number even higher than what I asked for, with an annualised bonus
+at year-end. 
 
 Now, at the age of 30, and the end of this post, please allow me to ink down a few vision for my career ahead.
 
@@ -896,13 +896,13 @@ How to achieve it? Look at the next one.
 
 2. **Targeted accumulation of knowledge and learning skills**.
 Through the years I had acquired skills in this industry what are fairly priced in the market.
-Although, large portion of these skills are obtained through work and are unconscious and passively 
-accumulated. From now on, I should work on reverse the absorption method and actively set up a framework to 
+Although, a large portion of these skills are obtained through work and are unconscious and passively 
+accumulated. From now on, I should work on reversing the absorption method and actively set up a framework to 
 dominate knowledge acquisition.
 
-3. Ever since I started to work, all my values are add to the companies I worked for. 
+3. Ever since I started to work, all my values are added to the companies I worked for. 
 Every piece of code that I've written, every system that I've built, 
-turned straight into company's property. I would like to **use my skills out side of my day job**.
+turned straight into the company's property. I would like to **use my skills outside of my day job**.
 I don't have a clue what to do with this. If you have an idea and like to share, 
 please leave a message.
 
