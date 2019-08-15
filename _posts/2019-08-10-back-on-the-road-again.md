@@ -902,7 +902,7 @@ dominate knowledge acquisition.
 
 3. Ever since I started to work, all my values are add to the companies I worked for. 
 Every piece of code that I've written, every system that I've built, 
-turned straight into company's property. I would like to flex my skills out side of my day job.
+turned straight into company's property. I would like to **use my skills out side of my day job**.
 I don't have a clue what to do with this. If you have an idea and like to share, 
 please leave a message.
 
